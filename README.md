@@ -26,7 +26,7 @@ a. cleansedreadcode - GOLD Read code matched Aurum 'cleansedreadcode'
 b. originalreadcode - GOLD Read code matched Aurum 'originalreadcode'
 c. description - GOLD description matched Aurum 'term' 
 d. termsearch - codes identified by searching Aurum for similar terms to original CALIBER GOLD list
-3. DiseaseDocumentation - this shows the codelists along with notes on implementation. The .md file is too large to be rendered in github, a .html version can be viewed on github in the docs subfolder
+3. DiseaseDocumentation - this shows the codelists along with notes on implementation. The .md file is too large to be rendered in github, a .html version can be viewed here: https://annalhead.github.io/CPRD_multimorbidity_codelists/docs/DiseaseDocumentation.html 
 
 
 ## Additional notes:
