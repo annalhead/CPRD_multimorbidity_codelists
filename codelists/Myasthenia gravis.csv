@@ -1,0 +1,4 @@
+"read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"F380.00","Myasthenia gravis","5655","Myasthenia gravis","Diagnosis of Myasthenia gravis",98,"Neurological conditions",13,"151829017","91637004","151829017","cleansedreadcode"
+"F380100","Myasthenia gravis","66740","Juvenile or adult myasthenia gravis","Diagnosis of Myasthenia gravis",98,"Neurological conditions",13,"297581011","193207007","297581011","cleansedreadcode"
+"F380z00","Myasthenia gravis","27515","Myasthenia gravis NOS","Diagnosis of Myasthenia gravis",98,"Neurological conditions",13,"297582016","91637004","151829017","cleansedreadcode"

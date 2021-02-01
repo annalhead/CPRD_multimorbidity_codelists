@@ -1,0 +1,7 @@
+"snomedctconceptid","medcodeid","term","cleansedreadcode","snomedctdescriptionid","test","disease_num","N","mapping"
+"1005671000000105","150921000006118","Serum cholesterol","44P..00","2551271000000118","totchol",157,2438726,"termsearch"
+"994351000000103","2478443019","Serum total cholesterol level","44PJ.00","2581451000000115","totchol",157,221321,"termsearch"
+"1017161000000104","1484985012","Plasma total cholesterol level","44OE.00","2552911000000113","totchol",157,102370,"termsearch"
+"667191000006107","667191000006111","Fasting serum cholesterol","","667191000006111","totchol",157,11088,"termsearch"
+"1005671000000105","259252011","Serum cholesterol NOS","44PZ.00","2551271000000118","totchol",157,7102,"termsearch"
+"1083761000000106","405621000000116","Serum fasting total cholesterol","44PK.00","2715881000000113","totchol",157,2030,"termsearch"

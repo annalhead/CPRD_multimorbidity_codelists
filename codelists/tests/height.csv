@@ -1,0 +1,5 @@
+"snomedctconceptid","medcodeid","term","cleansedreadcode","snomedctdescriptionid","test","disease_num","N","mapping"
+"248333004","253669010","O/E - height","229..00","370729019","height",105,2683539,"termsearch"
+"248333004","253676017","O/E - height NOS","229Z.00","370729019","height",105,3983,"termsearch"
+"1910921000006105","1910921000006114","Estimated height","","1910921000006114","height",105,225,"termsearch"
+"1910931000006108","1910931000006112","Reported height","","1910931000006112","height",105,22,"termsearch"

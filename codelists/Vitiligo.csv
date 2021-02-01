@@ -1,0 +1,3 @@
+"read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"F4E5311","Vitiligo","43328","Vitiligo of eyelid","Diagnosis of Vitiligo",212,"Skin conditions",15,"145353016","87666009","145353016","cleansedreadcode"
+"M295100","Vitiligo","975","Vitiligo","Diagnosis of Vitiligo",212,"Skin conditions",15,"94346015","56727007","94346015","cleansedreadcode"

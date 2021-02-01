@@ -1,0 +1,4 @@
+"read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"B592.00","Primary Malignancy_Multiple Sites","51352","Malignant neoplasms of independent (primary) multiple sites","Diagnosis of Primary Malignancy_Multiple independent sites",138,"Cancers",1,"289566011","188478004","289566011","cleansedreadcode"
+"ByuE.00","Primary Malignancy_Multiple Sites","63598","[X]Malignant neoplasms/independent (primary) multiple sites","Diagnosis of Primary Malignancy_Multiple independent sites",138,"Cancers",1,"396631000006112","188478004","289566011","cleansedreadcode"
+"ByuE000","Primary Malignancy_Multiple Sites","64897","[X]Malignant neoplasms/independent(primary)multiple sites","Diagnosis of Primary Malignancy_Multiple independent sites",138,"Cancers",1,"396641000006119","188478004","289566011","cleansedreadcode"

@@ -1,0 +1,8 @@
+"read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"M160.00","Psoriatic Arthritis","476","Psoriatic arthropathy","Diagnosis of Psoriatic arthropathy",153,"Musculoskeletal conditions",12,"55627011","33339001","55627011","cleansedreadcode"
+"M160.11","Psoriatic Arthritis","96880","Psoriatic arthritis","Diagnosis of Psoriatic arthropathy",153,"Musculoskeletal conditions",12,"55628018","33339001","55628018","cleansedreadcode"
+"M160000","Psoriatic Arthritis","26368","Psoriasis spondylitica","Diagnosis of Psoriatic arthropathy",153,"Musculoskeletal conditions",12,"198881000006116","200956002","308727011","cleansedreadcode"
+"M160100","Psoriatic Arthritis","32149","Distal interphalangeal psoriatic arthropathy","Diagnosis of Psoriatic arthropathy",153,"Musculoskeletal conditions",12,"359321011","239812005","359321011","cleansedreadcode"
+"M160200","Psoriatic Arthritis","21503","Arthritis mutilans","Diagnosis of Psoriatic arthropathy",153,"Musculoskeletal conditions",12,"32869011","19514005","32869011","cleansedreadcode"
+"M160z00","Psoriatic Arthritis","12500","Psoriatic arthropathy NOS","Diagnosis of Psoriatic arthropathy",153,"Musculoskeletal conditions",12,"308730016","33339001","55627011","cleansedreadcode"
+"Nyu1300","Psoriatic Arthritis","59107","[X]Other psoriatic arthropathies","Diagnosis of Psoriatic arthropathy",153,"Musculoskeletal conditions",12,"312521010","33339001","55626019","cleansedreadcode"

@@ -1,0 +1,4 @@
+"read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"F396700","Sjogren's Syndrome","21022","Myopathy due to Sjogren's disease","Diagnosis of Sjogren's disease",185,"Musculoskeletal conditions",12,"297645018","193253000","297645018","cleansedreadcode"
+"H57y300","Sjogren's Syndrome","47364","Lung disease with Sjogren's disease","Diagnosis of Sjogren's disease",185,"Musculoskeletal conditions",12,"301720019","196137000","301720019","cleansedreadcode"
+"N002.00","Sjogren's Syndrome","2360","Sicca (Sjogren's) syndrome","Diagnosis of Sjogren's disease",185,"Musculoskeletal conditions",12,"141091000006112","83901003","139128015","cleansedreadcode"

@@ -1,0 +1,5 @@
+"read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"G554000","Dilated cardiomyopathy","5141","Congestive cardiomyopathy","Diagnosis of Dilated cardiomyopathy",49,"Diseases of the Circulatory System",2,"1778488011","399020009","1778488011","cleansedreadcode"
+"G554400","Dilated cardiomyopathy","7535","Primary dilated cardiomyopathy","Diagnosis of Dilated cardiomyopathy",49,"Diseases of the Circulatory System",2,"300040013","195021004","300040013","cleansedreadcode"
+"G555.00","Dilated cardiomyopathy","4915","Alcoholic cardiomyopathy","Diagnosis of Dilated cardiomyopathy",49,"Diseases of the Circulatory System",2,"138527014","83521008","138527014","cleansedreadcode"
+"G55y.11","Dilated cardiomyopathy","9402","Secondary dilated cardiomyopathy","Diagnosis of Dilated cardiomyopathy",49,"Diseases of the Circulatory System",2,"34556015","20529002","34556015","cleansedreadcode"

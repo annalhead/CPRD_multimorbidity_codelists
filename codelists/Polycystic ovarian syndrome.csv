@@ -1,0 +1,3 @@
+"read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"C164.12","Polycystic ovarian syndrome","16103","Stein - Leventhal syndrome","Diagnosis of Polycystic ovarian syndrome",121,"Diseases of the Endocrine System",5,"223381000000117","69878008","116050013","cleansedreadcode"
+"C165.00","Polycystic ovarian syndrome","11347","Polycystic ovarian syndrome","Diagnosis of Polycystic ovarian syndrome",121,"Diseases of the Endocrine System",5,"2478811014","69878008","2478811014","cleansedreadcode"

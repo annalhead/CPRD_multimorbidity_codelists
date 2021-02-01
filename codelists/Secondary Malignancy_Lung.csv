@@ -1,0 +1,2 @@
+"read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"B570.00","Secondary Malignancy_Lung","4137","Secondary malignant neoplasm of lung","Diagnosis of Secondary Malignancy_Lung",175,"Cancers",1,"156319016","94391008","156319016","cleansedreadcode"

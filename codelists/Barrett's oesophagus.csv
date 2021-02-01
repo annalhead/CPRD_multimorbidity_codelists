@@ -1,0 +1,4 @@
+"read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"J101611","Barrett's oesophagus","4614","Barrett's oesophagus","Diagnosis of Barrett's oesophagus",21,"Diseases of the Digestive System",3,"444916014","302914006","444916014","cleansedreadcode"
+"J102500","Barrett's oesophagus","5596","Barrett's ulcer of oesophagus","Diagnosis of Barrett's oesophagus",21,"Diseases of the Digestive System",3,"302387019","196609006","302387019","cleansedreadcode"
+"J10y600","Barrett's oesophagus","99526","Barrett's oesophagus","Diagnosis of Barrett's oesophagus",21,"Diseases of the Digestive System",3,"1743031000006119","302914006","444916014","cleansedreadcode"

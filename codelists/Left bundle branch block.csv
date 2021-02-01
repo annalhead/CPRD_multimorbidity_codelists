@@ -1,0 +1,4 @@
+"read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"329A.00","Left bundle branch block","4690","ECG: left bundle branch block","Diagnosis of Left bundle branch block",88,"Diseases of the Circulatory System",2,"256500012","164909002","256500012","cleansedreadcode"
+"G562.11","Left bundle branch block","17840","Left bundle branch block","Diagnosis of Left bundle branch block",88,"Diseases of the Circulatory System",2,"105498014","63467002","105498014","cleansedreadcode"
+"G563.00","Left bundle branch block","26318","Left main stem bundle branch block","Diagnosis of Left bundle branch block",88,"Diseases of the Circulatory System",2,"300079019","195046004","300079019","cleansedreadcode"

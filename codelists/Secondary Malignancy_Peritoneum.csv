@@ -1,0 +1,6 @@
+"read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"B576.00","Secondary Malignancy_Peritoneum","67396","Secondary malig neop of retroperitoneum and peritoneum","Diagnosis of Secondary Malignancy_retroperitoneum and peritoneum",178,"Cancers",1,"151131000006112","188445006","289527015","cleansedreadcode"
+"B576000","Secondary Malignancy_Peritoneum","35364","Secondary malignant neoplasm of retroperitoneum","Diagnosis of Secondary Malignancy_retroperitoneum and peritoneum",178,"Cancers",1,"1215809015","94628003","1215809015","cleansedreadcode"
+"B576100","Secondary Malignancy_Peritoneum","27391","Secondary malignant neoplasm of peritoneum","Diagnosis of Secondary Malignancy_retroperitoneum and peritoneum",178,"Cancers",1,"1235875018","94627008","1235875018","cleansedreadcode"
+"B576200","Secondary Malignancy_Peritoneum","8154","Malignant ascites","Diagnosis of Secondary Malignancy_retroperitoneum and peritoneum",178,"Cancers",1,"353772013","236005001","353772013","cleansedreadcode"
+"B576z00","Secondary Malignancy_Peritoneum","97672","Secondary malig neop of retroperitoneum or peritoneum NOS","Diagnosis of Secondary Malignancy_retroperitoneum and peritoneum",178,"Cancers",1,"151141000006119","188445006","289527015","cleansedreadcode"

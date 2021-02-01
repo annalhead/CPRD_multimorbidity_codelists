@@ -1,0 +1,4 @@
+"read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"G41y000","Secondary pulmonary hypertension","34065","Secondary pulmonary hypertension","Diagnosis of secondary pulmonary hypertension",181,"Diseases of the Circulatory System",2,"146259010","88223008","146259010","cleansedreadcode"
+"G41y100","Secondary pulmonary hypertension","102444","Thromboembolic pulmonary hypertension","Diagnosis of secondary pulmonary hypertension",181,"Diseases of the Circulatory System",2,"350517010","233947005","350517010","cleansedreadcode"
+"","Secondary pulmonary hypertension","","thromboembolic pulmonary hypertension","Diagnosis of secondary pulmonary hypertension",181,"Diseases of the Circulatory System",2,"1749291000006113","1749291000006109","1749291000006113","originalreadcode"

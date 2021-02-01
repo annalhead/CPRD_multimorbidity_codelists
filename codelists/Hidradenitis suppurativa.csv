@@ -1,0 +1,4 @@
+"read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"M25y100","Hidradenitis suppurativa","5371","Hidradenitis","Diagnosis of Hidradenitis suppurativa",71,"Skin conditions",15,"115847018","69741000","115847018","cleansedreadcode"
+"M25y111","Hidradenitis suppurativa","2896","Hidradenitis suppurativa","Diagnosis of Hidradenitis suppurativa",71,"Skin conditions",15,"98642019","59393003","98642019","cleansedreadcode"
+NA,"Hidradenitis suppurativa",NA,"Hydradenitis suppurativa",NA,71,"Skin conditions",15,"855271000006114","855271000006105","855271000006114","termsearch"

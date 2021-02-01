@@ -1,0 +1,2 @@
+"read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"J577000","Angiodysplasia of colon","6504","Angiodysplasia of colon","Diagnosis of Angiodysplasia of colon",9,"Diseases of the Digestive System",3,"303346012","197244008","303346012","cleansedreadcode"

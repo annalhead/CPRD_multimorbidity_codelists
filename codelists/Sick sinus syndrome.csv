@@ -1,0 +1,3 @@
+"read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"G57y300","Sick sinus syndrome","5576","Sick sinus syndrome","Diagnosis of Sick sinus syndrome",183,"Diseases of the Circulatory System",2,"60214017","36083008","60214017","cleansedreadcode"
+"G57y400","Sick sinus syndrome","7410","Sinoatrial node dysfunction NOS","Diagnosis of Sick sinus syndrome",183,"Diseases of the Circulatory System",2,"300163018","60423000","498734013","cleansedreadcode"

@@ -1,0 +1,8 @@
+"read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"G755.00","Giant Cell arteritis","10432","Giant cell arteritis","Diagnosis of Giant Cell arteritis",64,"Musculoskeletal conditions",12,"2534171012","414341000","2534171012","cleansedreadcode"
+"G755000","Giant Cell arteritis","9843","Cranial arteritis","Diagnosis of Giant Cell arteritis",64,"Musculoskeletal conditions",12,"1787109017","400130008","1787109017","cleansedreadcode"
+"G755100","Giant Cell arteritis","3275","Temporal arteritis","Diagnosis of Giant Cell arteritis",64,"Musculoskeletal conditions",12,"1779388019","400130008","1779388019","cleansedreadcode"
+"G755200","Giant Cell arteritis","49149","Horton's disease","Diagnosis of Giant Cell arteritis",64,"Musculoskeletal conditions",12,"1787110010","400130008","1787110010","cleansedreadcode"
+"G755z00","Giant Cell arteritis","68403","Giant cell arteritis NOS","Diagnosis of Giant Cell arteritis",64,"Musculoskeletal conditions",12,"300584016","414341000","2534171012","cleansedreadcode"
+"N200.00","Giant Cell arteritis","29472","Giant cell arteritis with polymyalgia rheumatica","Diagnosis of Giant Cell arteritis",64,"Musculoskeletal conditions",12,"359513016","239938009","359513016","cleansedreadcode"
+"Nyu4100","Giant Cell arteritis","53789","[X]Other giant cell arteritis","Diagnosis of Giant Cell arteritis",64,"Musculoskeletal conditions",12,"312576015","414341000","2534171012","cleansedreadcode"

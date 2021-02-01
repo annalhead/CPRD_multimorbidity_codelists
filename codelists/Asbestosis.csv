@@ -1,0 +1,6 @@
+"read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"H41..00","Asbestosis","8303","Asbestosis","Diagnosis of Asbestosis",14,"Diseases of the Respiratory System",8,"37941013","22607003","37941013","cleansedreadcode"
+"H410.00","Asbestosis","5005","Pleural plaque disease due to asbestosis","History of Asbestosis",14,"Diseases of the Respiratory System",8,"350121013","233659006","350121013","cleansedreadcode"
+"H410.11","Asbestosis","100994","Asbestos-induced pleural plaque","History of Asbestosis",14,"Diseases of the Respiratory System",8,"350120014","233659006","350120014","cleansedreadcode"
+"H41z.00","Asbestosis","51410","Asbestosis NOS","Diagnosis of Asbestosis",14,"Diseases of the Respiratory System",8,"301552017","22607003","37941013","cleansedreadcode"
+"","Asbestosis","","asbestos-induced pleural plaque","History of Asbestosis",14,"Diseases of the Respiratory System",8,"1726601000006114","1726601000006105","1726601000006114","originalreadcode"

@@ -1,0 +1,5 @@
+"read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"BBP1.00","Primary Malignancy_Mesothelioma","27509","[M]Mesothelioma, malignant","Diagnosis of Primary Malignancy_Mesothelioma",137,"Cancers",1,"312601000006119","62064005","103178011","cleansedreadcode"
+"BBP3.11","Primary Malignancy_Mesothelioma","104720","[M]Sarcomatoid mesothelioma","Diagnosis of Primary Malignancy_Mesothelioma",137,"Cancers",1,"1785811000006114","54443001","90491019","cleansedreadcode"
+"BBP5.00","Primary Malignancy_Mesothelioma","47734","[M]Epithelioid mesothelioma, malignant","Diagnosis of Primary Malignancy_Mesothelioma",137,"Cancers",1,"308261000006116","65278006","1232663018","cleansedreadcode"
+"BBP7.00","Primary Malignancy_Mesothelioma","86820","[M]Mesothelioma, biphasic type, malignant","Diagnosis of Primary Malignancy_Mesothelioma",137,"Cancers",1,"312591000006110","30383009","1227226015","cleansedreadcode"

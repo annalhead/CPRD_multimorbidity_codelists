@@ -1,0 +1,5 @@
+"snomedctconceptid","medcodeid","term","cleansedreadcode","snomedctdescriptionid","test","disease_num","N","mapping"
+"27113001","253677014","O/E - weight","22A..00","45352010","weight",105,4631243,"termsearch"
+"27113001","253688015","O/E - weight NOS","22AZ.00","45352010","weight",105,2694,"termsearch"
+"1910901000006100","1910901000006116","Estimated weight","","1910901000006116","weight",105,216,"termsearch"
+"1910911000006102","1910911000006118","Reported weight","","1910911000006118","weight",105,17,"termsearch"

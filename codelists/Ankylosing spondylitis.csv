@@ -1,0 +1,6 @@
+"read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"388p.00","Ankylosing spondylitis","93639","BASDAI - Bath ankylosing spondylitis disease activity index","Diagnosis of Ankylosing spondylitis",10,"Musculoskeletal conditions",12,"2692996011","441562009","2817026019","cleansedreadcode"
+"N100.00","Ankylosing spondylitis","2184","Ankylosing spondylitis","Diagnosis of Ankylosing spondylitis",10,"Musculoskeletal conditions",12,"16833013","9631008","16833013","cleansedreadcode"
+"N100.11","Ankylosing spondylitis","40946","Marie - Strumpell spondylitis","Diagnosis of Ankylosing spondylitis",10,"Musculoskeletal conditions",12,"718001000006112","9631008","1235977013","cleansedreadcode"
+"2377","Ankylosing spondylitis","37400","O/E - ankyl.spondyl.chest def.","Diagnosis of Ankylosing spondylitis",10,"Musculoskeletal conditions",12,"253940015","162930007","2668362011","originalreadcode"
+"","Ankylosing spondylitis","","o/e - ankyl.spondyl.chest def.","Diagnosis of Ankylosing spondylitis",10,"Musculoskeletal conditions",12,"12454581000006118","162930007","253940015","originalreadcode"

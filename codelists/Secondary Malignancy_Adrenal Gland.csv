@@ -1,0 +1,2 @@
+"read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"B587.00","Secondary Malignancy_Adrenal Gland","36401","Secondary malignant neoplasm of adrenal gland","Diagnosis of Secondary Malignancy_Adrenal gland",170,"Cancers",1,"155711012","94161006","155711012","cleansedreadcode"

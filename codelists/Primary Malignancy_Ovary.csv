@@ -1,0 +1,7 @@
+"read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"B440.00","Primary Malignancy_Ovary","7805","Malignant neoplasm of ovary","Diagnosis of Primary Malignancy_Ovarian",142,"Cancers",1,"723281000006111","363443007","482684016","cleansedreadcode"
+"B440.11","Primary Malignancy_Ovary","1986","Cancer of ovary","Diagnosis of Primary Malignancy_Ovarian",142,"Cancers",1,"1228570010","363443007","1228570010","cleansedreadcode"
+"BB5j200","Primary Malignancy_Ovary","9447","[M]Endometrioid carcinoma","Diagnosis of Primary Malignancy_Ovarian",142,"Cancers",1,"307971000006119","30289006","50697019","cleansedreadcode"
+"BB5j500","Primary Malignancy_Ovary","103034","[M]Endometrioid adenofibroma, malignant","Diagnosis of Primary Malignancy_Ovarian",142,"Cancers",1,"307921000006115","18105004","1221668019","cleansedreadcode"
+"BBQA100","Primary Malignancy_Ovary","71301","[M]Struma ovarii, malignant","Diagnosis of Primary Malignancy_Ovarian",142,"Cancers",1,"317041000006111","18854008","1222203017","cleansedreadcode"
+"D212000","Primary Malignancy_Ovary","48145","Anaemia in ovarian carcinoma","History of Primary Malignancy_Ovarian",142,"Cancers",1,"451077018","307726001","451077018","cleansedreadcode"

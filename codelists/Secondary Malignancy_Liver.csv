@@ -1,0 +1,4 @@
+"read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"B153.00","Secondary Malignancy_Liver","36147","Secondary malignant neoplasm of liver","Diagnosis of Secondary malignancy_Liver and intrahepatic bile duct",174,"Cancers",1,"151331000006114","94381002","156291015","cleansedreadcode"
+"B577.00","Secondary Malignancy_Liver","15103","Secondary malignant neoplasm of liver","Diagnosis of Secondary malignancy_Liver and intrahepatic bile duct",174,"Cancers",1,"156291015","94381002","156291015","cleansedreadcode"
+"B577.11","Secondary Malignancy_Liver","4403","Liver metastases","Diagnosis of Secondary malignancy_Liver and intrahepatic bile duct",174,"Cancers",1,"739801000006115","94381002","511275014","cleansedreadcode"

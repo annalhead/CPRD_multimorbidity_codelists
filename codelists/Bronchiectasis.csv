@@ -1,0 +1,7 @@
+"read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"A115.00","Bronchiectasis","15693","Tuberculous bronchiectasis","Diagnosis of Bronchiectasis",25,"Diseases of the Respiratory System",8,"38677017","23022004","38677017","cleansedreadcode"
+"H34..00","Bronchiectasis","2195","Bronchiectasis","Diagnosis of Bronchiectasis",25,"Diseases of the Respiratory System",8,"21163015","12295008","21163015","cleansedreadcode"
+"H340.00","Bronchiectasis","20364","Recurrent bronchiectasis","Diagnosis of Bronchiectasis",25,"Diseases of the Respiratory System",8,"301524014","195984007","301524014","cleansedreadcode"
+"H341.00","Bronchiectasis","41491","Post-infective bronchiectasis","Diagnosis of Bronchiectasis",25,"Diseases of the Respiratory System",8,"301525010","195985008","301525010","cleansedreadcode"
+"H34z.00","Bronchiectasis","32679","Bronchiectasis NOS","Diagnosis of Bronchiectasis",25,"Diseases of the Respiratory System",8,"301526011","12295008","21163015","cleansedreadcode"
+"P861.00","Bronchiectasis","56427","Congenital bronchiectasis","Diagnosis of Bronchiectasis",25,"Diseases of the Respiratory System",8,"128792019","77593006","128792019","cleansedreadcode"

@@ -1,0 +1,4 @@
+"snomedctconceptid","medcodeid","term","cleansedreadcode","snomedctdescriptionid","test","disease_num","N","mapping"
+"1005691000000109","145471000006115","Serum triglycerides","44Q..00","2551281000000116","triglyc",158,1727171,"termsearch"
+"854481000006106","854481000006110","Fasting triglycerides","","854481000006110","triglyc",158,11824,"termsearch"
+"365796000","259263014","Serum triglycerides NOS","44QZ.00","489238019","triglyc",158,4049,"termsearch"

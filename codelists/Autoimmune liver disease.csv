@@ -1,0 +1,5 @@
+"read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"J614111","Autoimmune liver disease","7957","Autoimmune chronic active hepatitis","Diagnosis of Autoimmune liver disease",19,"Diseases of the Digestive System",3,"303404016","197284004","303404016","cleansedreadcode"
+"J616000","Autoimmune liver disease","5638","Primary biliary cirrhosis","Diagnosis of Autoimmune liver disease",19,"Diseases of the Digestive System",3,"52980015","31712002","52980015","cleansedreadcode"
+"J63B.00","Autoimmune liver disease","18652","Autoimmune hepatitis","Diagnosis of Autoimmune liver disease",19,"Diseases of the Digestive System",3,"2159899016","408335007","2159899016","cleansedreadcode"
+"J661700","Autoimmune liver disease","15425","Primary sclerosing cholangitis","Diagnosis of Autoimmune liver disease",19,"Diseases of the Digestive System",3,"303614019","197441003","303614019","cleansedreadcode"

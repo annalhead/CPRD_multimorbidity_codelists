@@ -1,0 +1,3 @@
+"read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"B585.00","Secondary Malignancy_Bone","7654","Secondary malignant neoplasm of bone and bone marrow","Diagnosis of Secondary Malignancy_Bone",171,"Cancers",1,"1235814012","94222008","1235814012","cleansedreadcode"
+"B585000","Secondary Malignancy_Bone","18676","Pathological fracture due to metastatic bone disease","Diagnosis of Secondary Malignancy_Bone",171,"Cancers",1,"216227011","134421000","216227011","cleansedreadcode"

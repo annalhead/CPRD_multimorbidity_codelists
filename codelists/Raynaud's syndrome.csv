@@ -1,0 +1,6 @@
+"read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"G730.00","Raynaud's syndrome","1231","Raynaud's syndrome","Diagnosis of Raynaud's syndrome",159,"Diseases of the Circulatory System",2,"192131000006114","195295006","300496013","cleansedreadcode"
+"G730000","Raynaud's syndrome","1002","Raynaud's disease","Diagnosis of Raynaud's syndrome",159,"Diseases of the Circulatory System",2,"300496013","195295006","300496013","cleansedreadcode"
+"G730100","Raynaud's syndrome","5595","Raynaud's phenomenon","Diagnosis of Raynaud's syndrome",159,"Diseases of the Circulatory System",2,"395792010","266261006","395792010","cleansedreadcode"
+"G730111","Raynaud's syndrome","23880","Vibratory white finger","Diagnosis of Raynaud's syndrome",159,"Diseases of the Circulatory System",2,"350655010","234034005","350655010","cleansedreadcode"
+"G730z00","Raynaud's syndrome","39097","Raynaud's syndrome NOS","Diagnosis of Raynaud's syndrome",159,"Diseases of the Circulatory System",2,"300500010","195295006","300496013","cleansedreadcode"

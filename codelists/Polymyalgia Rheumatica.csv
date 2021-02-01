@@ -1,0 +1,4 @@
+"read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"N20..00","Polymyalgia Rheumatica","1408","Polymyalgia rheumatica","Diagnosis of Polymyalgia Rheumatica",123,"Musculoskeletal conditions",12,"108529013","65323003","108529013","cleansedreadcode"
+"N20..11","Polymyalgia Rheumatica","3042","Polymyalgia","Diagnosis of Polymyalgia Rheumatica",123,"Musculoskeletal conditions",12,"158050019","65323003","108529013","cleansedreadcode"
+"N200.00","Polymyalgia Rheumatica","29472","Giant cell arteritis with polymyalgia rheumatica","Diagnosis of Polymyalgia Rheumatica",123,"Musculoskeletal conditions",12,"359513016","239938009","359513016","cleansedreadcode"

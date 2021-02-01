@@ -1,0 +1,4 @@
+"read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"N031000","Enteropathic arthropathy","17641","Arthropathy in ulcerative colitis","Diagnosis of Enteropathic arthropathy",56,"Musculoskeletal conditions",12,"309743013","201727001","309743013","cleansedreadcode"
+"N031100","Enteropathic arthropathy","20480","Arthropathy in Crohn's disease","Diagnosis of Enteropathic arthropathy",56,"Musculoskeletal conditions",12,"309744019","201728006","309744019","cleansedreadcode"
+"Nyu1400","Enteropathic arthropathy","97917","[X]Other enteropathic arthropathies","Diagnosis of Enteropathic arthropathy",56,"Musculoskeletal conditions",12,"312522015","56528004","94003014","cleansedreadcode"

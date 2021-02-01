@@ -1,0 +1,8 @@
+"read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"G50..11","Pericardial Effusion","45311","Pericardial effusion - acute","Diagnosis of Pericardial effusion (noninflammatory)",114,"Diseases of the Circulatory System",2,"233911000006115","57231008","95192016","cleansedreadcode"
+"G533.00","Pericardial Effusion","18293","Pericardial effusion - noninflammatory","Diagnosis of Pericardial effusion (noninflammatory)",114,"Diseases of the Circulatory System",2,"299959015","194970009","299959015","cleansedreadcode"
+"G534.00","Pericardial Effusion","2520","Pericardial effusion - acute","Diagnosis of Pericardial effusion (noninflammatory)",114,"Diseases of the Circulatory System",2,"218461000000119","57231008","95192016","cleansedreadcode"
+"G536.00","Pericardial Effusion","105192","Pericardial effusion","Diagnosis of Pericardial effusion (noninflammatory)",114,"Diseases of the Circulatory System",2,"1212388010","373945007","1212388010","cleansedreadcode"
+"G536000","Pericardial Effusion","107662","Chronic pericardial effusion","Diagnosis of Pericardial effusion (noninflammatory)",114,"Diseases of the Circulatory System",2,"2185931000000111","842701000000106","2185931000000111","cleansedreadcode"
+"","Pericardial Effusion","","chronic pericardial effusion","Diagnosis of Pericardial effusion (noninflammatory)",114,"Diseases of the Circulatory System",2,"1822351000006115","1822351000006104","1822351000006115","originalreadcode"
+"","Pericardial Effusion","","pericardial effusion","Diagnosis of Pericardial effusion (noninflammatory)",114,"Diseases of the Circulatory System",2,"1822341000006117","373945007","1822341000006117","originalreadcode"

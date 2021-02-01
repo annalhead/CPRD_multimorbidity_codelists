@@ -1,0 +1,2 @@
+"read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"B572.00","Secondary Malignancy_Pleura","16213","Secondary malignant neoplasm of pleura","Diagnosis of Secondary Malignancy_Pleura",179,"Cancers",1,"156585018","94493005","156585018","cleansedreadcode"

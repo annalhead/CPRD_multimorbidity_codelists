@@ -1,0 +1,8 @@
+"snomedctconceptid","medcodeid","term","cleansedreadcode","snomedctdescriptionid","test","disease_num","N","mapping"
+"1005681000000107","259232010","Serum HDL cholesterol level","44P5.00","2577901000000110","lhdl",90,2050434,"termsearch"
+"1010581000000101","458313013","Plasma HDL cholesterol level","44dA.00","2557051000000110","lhdl",90,95650,"termsearch"
+"1026451000000102","259242012","Serum fasting HDL cholesterol level","44PB.00","2599931000000119","lhdl",90,9663,"termsearch"
+"1026461000000104","259243019","Serum random HDL cholesterol level","44PC.00","2599971000000117","lhdl",90,6018,"termsearch"
+"855771000006102","855771000006118","HDL cholesterol level","","855771000006118","lhdl",90,3465,"termsearch"
+"1028841000000102","259567011","Plasma fasting HDL cholesterol level","44d3.00","2600031000000117","lhdl",90,1692,"termsearch"
+"1028831000000106","259564016","Plasma random HDL cholesterol level","44d2.00","2600041000000114","lhdl",90,1071,"termsearch"

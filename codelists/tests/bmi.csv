@@ -1,0 +1,4 @@
+"snomedctconceptid","medcodeid","term","cleansedreadcode","snomedctdescriptionid","test","disease_num","N","mapping"
+"60621009","100716012","Body mass index","22K..00","100716012","bmi",105,4041850,"termsearch"
+"923861000006108","923861000006112","Body mass index","","923861000006112","bmi",105,245,"termsearch"
+"60621009","3484801000006114","BMI - Body mass index","","2164081012","bmi",105,8,"termsearch"

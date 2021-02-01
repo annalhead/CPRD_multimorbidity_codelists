@@ -1,0 +1,7 @@
+"read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"M240100","Alopecia areata","685","Alopecia areata","Diagnosis of Alopecia areata",7,"Skin conditions",15,"113328010","68225006","113328010","cleansedreadcode"
+"M240111","Alopecia areata","60422","Ophiasis","Diagnosis of Alopecia areata",7,"Skin conditions",15,"44741000006112","5860009","10759012","cleansedreadcode"
+"M240B00","Alopecia areata","2449","Alopecia totalis","Diagnosis of Alopecia areata",7,"Skin conditions",15,"33266015","19754005","33266015","cleansedreadcode"
+"M240K00","Alopecia areata","2154","Alopecia universalis","Diagnosis of Alopecia areata",7,"Skin conditions",15,"142888018","86166000","142888018","cleansedreadcode"
+"M240U00","Alopecia areata","99217","Ophiasis","Diagnosis of Alopecia areata",7,"Skin conditions",15,"10759012","5860009","10759012","cleansedreadcode"
+"Myu6200","Alopecia areata","53782","[X]Other alopecia areata","Diagnosis of Alopecia areata",7,"Skin conditions",15,"309354017","68225006","113328010","cleansedreadcode"

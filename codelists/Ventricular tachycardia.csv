@@ -1,0 +1,4 @@
+"read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"G571.00","Ventricular tachycardia","3418","Paroxysmal ventricular tachycardia","Diagnosis of Ventricular tachycardia",209,"Diseases of the Circulatory System",2,"110733013","66657009","110733013","cleansedreadcode"
+"G571.11","Ventricular tachycardia","7794","Ventricular tachycardia","Diagnosis of Ventricular tachycardia",209,"Diseases of the Circulatory System",2,"42864016","25569003","42864016","cleansedreadcode"
+"3282","Ventricular tachycardia","4924","ECG: ventricular tachycardia","Diagnosis of Ventricular tachycardia",209,"Diseases of the Circulatory System",2,"256484015","164895002","256484015","originalreadcode"

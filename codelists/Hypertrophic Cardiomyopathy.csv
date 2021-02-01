@@ -1,0 +1,4 @@
+"read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"G551.00","Hypertrophic Cardiomyopathy","8010","Hypertrophic obstructive cardiomyopathy","Diagnosis of Hypertrophic Cardiomyopathy",78,"Diseases of the Circulatory System",2,"75410014","45227007","75410014","cleansedreadcode"
+"G554300","Hypertrophic Cardiomyopathy","3499","Hypertrophic non-obstructive cardiomyopathy","Diagnosis of Hypertrophic Cardiomyopathy",78,"Diseases of the Circulatory System",2,"300038015","195020003","300038015","cleansedreadcode"
+"Gyu5M00","Hypertrophic Cardiomyopathy","70648","[X]Other hypertrophic cardiomyopathy","Diagnosis of Hypertrophic Cardiomyopathy",78,"Diseases of the Circulatory System",2,"300910013","233873004","350415017","cleansedreadcode"

@@ -1,0 +1,3 @@
+"read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"F131000","Benign essential tremor","3051","Benign essential tremor","Diagnosis of Benign essential tremor",22,"Neurological conditions",13,"297050013","609558009","2967747011","cleansedreadcode"
+"F131100","Benign essential tremor","2512","Familial tremor","Diagnosis of Benign essential tremor",22,"Neurological conditions",13,"297051012","609559001","2967755016","cleansedreadcode"
