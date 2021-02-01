@@ -9,8 +9,6 @@ output:
 
 This markdown shows the codes used for each condition,
 along with any amendments made to the CALIBER code lists. 
-These amendment lists were derived from the "Create_disease_list" & "examiningcodes" files, 
-with some edits made after looking at the distribution of test value results in our sample of 1m patients. 
 
 All the algorithms are based on the CALIBER algorithms developed for use in CPRD GOLD, 
 adapted here for use in CPRD Aurum for our specific study on temporal & equity trends in
