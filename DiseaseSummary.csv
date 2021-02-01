@@ -1,0 +1,217 @@
+Disease,Disease_mod,disease_num,system,system_num,type,testresults
+Abdominal Aortic Aneurysm,Abdominal Aortic Aneurysm,1,Diseases of the Circulatory System,2,single,no
+Abdominal Hernia,Abdominal Hernia,2,Diseases of the Digestive System,3,multi,no
+Acne,Acne,3,Skin conditions,15,multi,no
+Alcohol Misuse,Alcohol Misuse,4,Mental Health Disorders,11,single,no
+Alcoholic liver disease,Alcoholic liver disease,5,Diseases of the Digestive System,3,single,no
+Allergic and chronic rhinitis,Allergic and chronic rhinitis,6,Diseases of the Respiratory System,8,multi,no
+Alopecia areata,Alopecia areata,7,Skin conditions,15,single,no
+Anaemia_other,Anaemia_other,8,Haematological/Immunological conditions,9,single,no
+Angiodysplasia of colon,Angiodysplasia of colon,9,Diseases of the Digestive System,3,single,no
+Ankylosing spondylitis,Ankylosing spondylitis,10,Musculoskeletal conditions,12,single,no
+Anterior and Intermediate Uveitis,Anterior and Intermediate Uveitis,11,Diseases of the Eye,6,multi,no
+Anxiety disorders,Anxiety disorders,12,Mental Health Disorders,11,multi,no
+Aplastic anaemias,Aplastic anaemias,13,Haematological/Immunological conditions,9,single,no
+Asbestosis,Asbestosis,14,Diseases of the Respiratory System,8,single,no
+Asthma,Asthma,15,Diseases of the Respiratory System,8,multi,no
+Atrial Fibrillation,Atrial Fibrillation,16,Diseases of the Circulatory System,2,single,no
+"Atrioventricular block, first degree",Atrioventricular blocks,17,Diseases of the Circulatory System,2,single,no
+"Atrioventricular block, second degree",Atrioventricular blocks,17,Diseases of the Circulatory System,2,single,no
+"Atrioventricular block, third degree",Atrioventricular blocks,17,Diseases of the Circulatory System,2,single,no
+Autism and Asperger's syndrome,Autism and Asperger's syndrome,18,Mental Health Disorders,11,single,no
+Autoimmune liver disease,Autoimmune liver disease,19,Diseases of the Digestive System,3,single,no
+Autonomic Neuropathy,Autonomic Neuropathy,20,Neurological conditions,13,single,no
+Barrett's oesophagus,Barrett's oesophagus,21,Diseases of the Digestive System,3,single,no
+Benign Prostatic Hyperplasia,Benign Prostatic Hyperplasia,23,Diseases of the Genitourinary System,7,single,no
+Bifascicular block,Right bundle branch block combinations,163,Diseases of the Circulatory System,2,single,no
+Bipolar affective disorder and mania,Bipolar affective disorder and mania,24,Mental Health Disorders,11,multi,no
+Visual impairment and blindness,Visual impairment and blindness,210,Diseases of the Eye,6,single,no
+Bronchiectasis,Bronchiectasis,25,Diseases of the Respiratory System,8,single,no
+Cardiomyopathy_other,Cardiomyopathy_other,26,Diseases of the Circulatory System,2,single,no
+Cataract,Cataract,27,Diseases of the Eye,6,single,no
+Cerebral Palsy,Cerebral Palsy,28,Neurological conditions,13,single,no
+Chronic Cystitis,Chronic Cystitis,29,Diseases of the Genitourinary System,7,single,no
+Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,30,Neurological conditions,13,single,no
+Chronic Kidney Disease,Chronic Kidney Disease,31,Diseases of the Genitourinary System,7,single,yes
+COPD,COPD,38,Diseases of the Respiratory System,8,single,no
+Chronic sinusitis,Chronic sinusitis,32,Diseases of the Respiratory System,8,single,no
+Chronic viral hepatitis,Chronic viral hepatitis,33,Infectious Diseases,10,single,no
+Cirrhosis,Cirrhosis,34,Diseases of the Digestive System,3,single,no
+Coeliac disease,Coeliac disease,35,Diseases of the Digestive System,3,single,no
+Collapsed vertebra,Collapsed vertebra,36,Musculoskeletal conditions,12,single,no
+Congenital Septal Defect,Congenital Septal Defect,37,Perinatal conditions,14,single,no
+Coronary Heart Disease (not otherwise specified),Coronary Heart Disease (not otherwise specified),39,Diseases of the Circulatory System,2,single,no
+Crohn's disease,Crohn's disease,40,Diseases of the Digestive System,3,single,no
+Cystic Fibrosis,Cystic Fibrosis,41,Diseases of the Endocrine System,5,single,no
+Hearing loss,Hearing loss,68,Diseases of the Ear,4,single,no
+Dementia,Dementia,42,Mental Health Disorders,11,single,no
+Depression,Depression,43,Mental Health Disorders,11,multi,no
+Dermatitis,Dermatitis,44,Skin conditions,15,multi,no
+Diabetes Mellitus_other or not specified,Diabetes Mellitus_other or not specified,45,Diseases of the Endocrine System,5,single,no
+Diabetic Eye Disease,Diabetic Eye Disease,46,Diseases of the Eye,6,single,no
+Diabetic Neuropathy,Diabetic Neuropathy,47,Neurological conditions,13,single,no
+Diaphragmatic hernia,Diaphragmatic hernia,48,Diseases of the Digestive System,3,multi,no
+Dilated cardiomyopathy,Dilated cardiomyopathy,49,Diseases of the Circulatory System,2,single,no
+Diverticular Disease,Diverticular Disease,50,Diseases of the Digestive System,3,single,no
+Down's syndrome,Down's syndrome,51,Perinatal conditions,14,single,no
+Dysmenorrhoea,Dysmenorrhoea,52,Diseases of the Genitourinary System,7,single,no
+Eating Disorders,Eating Disorders,53,Mental Health Disorders,11,single,no
+End stage renal disease,Chronic Kidney Disease,31,Diseases of the Genitourinary System,7,single,no
+Endometrial hyperplasia and hypertrophy,Endometrial hyperplasia and hypertrophy,54,Diseases of the Genitourinary System,7,single,no
+Endometriosis,Endometriosis,55,Diseases of the Genitourinary System,7,single,no
+Enteropathic arthropathy,Enteropathic arthropathy,56,Musculoskeletal conditions,12,single,no
+Enthesopathy and synovial disorder,Enthesopathy and synovial disorder,57,Musculoskeletal conditions,12,multi,no
+Epilepsy,Epilepsy,58,Neurological conditions,13,single,no
+Benign essential tremor,Benign essential tremor,22,Neurological conditions,13,single,no
+Fatty Liver,Fatty Liver,59,Diseases of the Digestive System,3,single,no
+Fibromatosis,Fibromatosis,60,Musculoskeletal conditions,12,single,no
+Folate deficiency anaemia,Folate deficiency anaemia,61,Haematological/Immunological conditions,9,single,no
+Gastritis and duodenitis,Gastritis and duodenitis,62,Diseases of the Digestive System,3,multi,no
+Gastro-oesophageal reflux disease,Gastro-oesophageal reflux disease,63,Diseases of the Digestive System,3,single,no
+Giant Cell arteritis,Giant Cell arteritis,64,Musculoskeletal conditions,12,single,no
+Glaucoma,Glaucoma,65,Diseases of the Eye,6,single,no
+Glomerulonephritis,Glomerulonephritis,66,Diseases of the Genitourinary System,7,single,no
+Gout,Gout,67,Musculoskeletal conditions,12,single,no
+Heart failure,Heart failure,69,Diseases of the Circulatory System,2,single,no
+Hidradenitis suppurativa,Hidradenitis suppurativa,71,Skin conditions,15,multi,no
+HIV,HIV,72,Infectious Diseases,10,single,no
+Hodgkin Lymphoma,Hodgkin Lymphoma,73,Cancers,1,single,no
+Hyperkinetic disorders,Hyperkinetic disorders,74,Mental Health Disorders,11,single,no
+Hyperparathyroidism,Hyperparathyroidism,75,Diseases of the Endocrine System,5,single,no
+Hypersplenism,Hypersplenism,76,Haematological/Immunological conditions,9,single,no
+Hypertension,Hypertension,77,Diseases of the Circulatory System,2,multi,no
+Hypertrophic Cardiomyopathy,Hypertrophic Cardiomyopathy,78,Diseases of the Circulatory System,2,single,no
+Hypertrophic Nasal Turbinates,Hypertrophic Nasal Turbinates,79,Diseases of the Respiratory System,8,single,no
+Hyposplenism,Hyposplenism,80,Haematological/Immunological conditions,9,single,no
+Idiopathic Intracranial Hypertension,Idiopathic Intracranial Hypertension,81,Neurological conditions,13,single,no
+Immunodeficiencies,Immunodeficiencies,82,Haematological/Immunological conditions,9,single,no
+Intellectual disability,Intellectual disability,83,Mental Health Disorders,11,single,no
+Intervertebral disc disorders,Intervertebral disc disorders,84,Musculoskeletal conditions,12,single,no
+Intracerebral haemorrhage,Intracerebral haemorrhage,85,Diseases of the Circulatory System,2,single,no
+Irritable bowel syndrome,Irritable bowel syndrome,86,Diseases of the Digestive System,3,single,no
+Ischaemic stroke,Ischaemic stroke,87,Diseases of the Circulatory System,2,single,no
+Left bundle branch block,Left bundle branch block,88,Diseases of the Circulatory System,2,single,no
+Leukaemia,Leukaemia,89,Cancers,1,single,no
+Hepatic failure,Hepatic failure,70,Diseases of the Digestive System,3,single,no
+Low HDL-C,Low HDL-C,90,Diseases of the Endocrine System,5,,yes
+Lupus Erythematosus,Lupus Erythematosus,91,Musculoskeletal conditions,12,single,no
+Macular degeneration,Macular degeneration,92,Diseases of the Eye,6,single,no
+Meniere's Disease,Meniere's Disease,93,Diseases of the Ear,4,single,no
+Migraine,Migraine,94,Neurological conditions,13,multi,no
+Motor neuron disease,Motor neuron disease,95,Neurological conditions,13,single,no
+Multiple sclerosis,Multiple sclerosis,96,Neurological conditions,13,single,no
+Multiple valve disorder,Multiple valve disorder,97,Diseases of the Circulatory System,2,single,no
+Myasthenia gravis,Myasthenia gravis,98,Neurological conditions,13,single,no
+Myelodysplastic Syndrome,Myelodysplastic Syndrome,99,Cancers,1,single,no
+Myocardial Infarction,Myocardial Infarction,100,Diseases of the Circulatory System,2,single,no
+Neuropahtic Bladder,Neuropahtic Bladder,101,Diseases of the Genitourinary System,7,single,no
+Non-Hodgkin Lymphoma,Non-Hodgkin Lymphoma,102,Cancers,1,single,no
+Nonrheumatic aortic valve disorders,Nonrheumatic aortic valve disorders,103,Diseases of the Circulatory System,2,single,no
+Nonrheumatic mitral valve disorders,Nonrheumatic mitral valve disorders,104,Diseases of the Circulatory System,2,single,no
+Obesity,Obesity,105,Diseases of the Endocrine System,5,multi,yes
+Obsessive-compulsive disorder,Obsessive-compulsive disorder,106,Mental Health Disorders,11,single,no
+Obstructive and reflux uropathy,Obstructive and reflux uropathy,107,Diseases of the Genitourinary System,7,single,no
+Oesophageal varices,Oesophageal varices,108,Diseases of the Digestive System,3,single,no
+Osteoarthritis (excl spine),Osteoarthritis (excl spine),109,Musculoskeletal conditions,12,single,no
+Osteoporosis,Osteoporosis,110,Musculoskeletal conditions,12,single,no
+Other haemolytic anaemias,Other haemolytic anaemias,111,Haematological/Immunological conditions,9,single,no
+Pancreatitis,Pancreatitis,112,Diseases of the Digestive System,3,multi,no
+Parkinson's disease,Parkinson's disease,113,Neurological conditions,13,single,no
+Pericardial Effusion,Pericardial Effusion,114,Diseases of the Circulatory System,2,multi,no
+Peripheral Arterial Disease,Peripheral Vascular Disease,115,Diseases of the Circulatory System,2,single,no
+Peripheral Neuropathy,Peripheral Neuropathy,116,Neurological conditions,13,single,no
+Personality disorders,Personality disorders,117,Mental Health Disorders,11,single,no
+Plasma Cell Malignancy,Plasma Cell Malignancy,118,Cancers,1,single,no
+Pleural effusion,Pleural effusion,119,Diseases of the Respiratory System,8,multi,no
+Pleural plaque,Pleural plaque,120,Diseases of the Respiratory System,8,single,no
+Polycystic ovarian syndrome,Polycystic ovarian syndrome,121,Diseases of the Endocrine System,5,single,no
+Polycythaemia vera,Polycythaemia vera,122,Cancers,1,single,no
+Polymyalgia Rheumatica,Polymyalgia Rheumatica,123,Musculoskeletal conditions,12,single,no
+Portal hypertension,Portal hypertension,124,Diseases of the Digestive System,3,single,no
+Posterior Uveitis,Posterior Uveitis,125,Diseases of the Eye,6,multi,no
+Primary Malignancy_Biliary Tract,Primary Malignancy_Biliary Tract,126,Cancers,1,single,no
+Primary Malignancy_Bladder,Primary Malignancy_Bladder,127,Cancers,1,single,no
+Primary Malignancy_Bone,Primary Malignancy_Bone,128,Cancers,1,single,no
+Primary Malignancy_Bowel,Primary Malignancy_Bowel,129,Cancers,1,single,no
+Primary Malignancy_Brain,Primary Malignancy_Brain,130,Cancers,1,single,no
+Primary Malignancy_Breast,Primary Malignancy_Breast,131,Cancers,1,single,no
+Primary Malignancy_Cervix,Primary Malignancy_Cervix,132,Cancers,1,single,no
+Primary Malignancy_Kidney,Primary Malignancy_Kidney,133,Cancers,1,single,no
+Primary Malignancy_Liver,Primary Malignancy_Liver,134,Cancers,1,single,no
+Primary Malignancy_Lung,Primary Malignancy_Lung,135,Cancers,1,single,no
+Primary Malignancy_Melanoma,Primary Malignancy_Melanoma,136,Cancers,1,single,no
+Primary Malignancy_Mesothelioma,Primary Malignancy_Mesothelioma,137,Cancers,1,single,no
+Primary Malignancy_Multiple Sites,Primary Malignancy_Multiple Sites,138,Cancers,1,single,no
+Primary Malignancy_Oesophageal,Primary Malignancy_Oesophageal,139,Cancers,1,single,no
+Primary Malignancy_Oropharyngeal,Primary Malignancy_Oropharyngeal,140,Cancers,1,single,no
+Primary Malignancy_other,Primary Malignancy_other,141,Cancers,1,single,no
+Primary Malignancy_Ovary,Primary Malignancy_Ovary,142,Cancers,1,single,no
+Primary Malignancy_Pancreas,Primary Malignancy_Pancreas,143,Cancers,1,single,no
+Primary Malignancy_Prostate,Primary Malignancy_Prostate,144,Cancers,1,single,no
+Primary Malignancy_Skin,Primary Malignancy_Skin,145,Cancers,1,single,no
+Primary Malignancy_Stomach,Primary Malignancy_Stomach,146,Cancers,1,single,no
+Primary Malignancy_Testis,Primary Malignancy_Testis,147,Cancers,1,single,no
+Primary Malignancy_Thyroid,Primary Malignancy_Thyroid,148,Cancers,1,single,no
+Primary Malignancy_Uterus,Primary Malignancy_Uterus,149,Cancers,1,single,no
+Primary pulmonary hypertension,Primary pulmonary hypertension,150,Diseases of the Circulatory System,2,single,no
+Primary Thrombocytopaenia,Primary Thrombocytopaenia,151,Haematological/Immunological conditions,9,single,no
+Psoriasis,Psoriasis,152,Skin conditions,15,multi,no
+Psoriatic Arthritis,Psoriatic Arthritis,153,Musculoskeletal conditions,12,single,no
+Pulmonary Fibrosis,Pulmonary Fibrosis,155,Diseases of the Respiratory System,8,single,no
+Raised LDL-C,Raised LDL-C,156,Diseases of the Endocrine System,5,,yes
+Raised Total Cholesterol,Raised Total Cholesterol,157,Diseases of the Endocrine System,5,,yes
+Raised Triglycerides,Raised Triglycerides,158,Diseases of the Endocrine System,5,,yes
+Raynaud's syndrome,Raynaud's syndrome,159,Diseases of the Circulatory System,2,single,no
+Retinal vascular occlusions,Retinal vascular occlusions,160,Diseases of the Eye,6,single,no
+Rheumatic Valve Disorder,Rheumatic Valve Disorder,161,Diseases of the Circulatory System,2,single,no
+Rheumatoid Arthritis,Rheumatoid Arthritis,162,Musculoskeletal conditions,12,single,no
+Right bundle branch block,Right bundle branch block combinations,163,Diseases of the Circulatory System,2,single,no
+Rosacea,Rosacea,164,Skin conditions,15,multi,no
+Sarcoidosis,Sarcoidosis,165,Haematological/Immunological conditions,9,single,no
+Schizophrenia,Schizophrenia,166,Mental Health Disorders,11,single,no
+Scleritis and episcleritis,Scleritis and episcleritis,167,Diseases of the Eye,6,single,no
+Scleroderma,Scleroderma,168,Musculoskeletal conditions,12,single,no
+Seborrheic dermatitis,Seborrheic dermatitis,169,Skin conditions,15,multi,no
+Secondary Malignancy_Adrenal Gland,Secondary Malignancy_Adrenal Gland,170,Cancers,1,single,no
+Secondary Malignancy_Bone,Secondary Malignancy_Bone,171,Cancers,1,single,no
+Secondary Malignancy_Bowel,Secondary Malignancy_Bowel,172,Cancers,1,single,no
+Secondary Malignancy_Brain,Secondary Malignancy_Brain,173,Cancers,1,single,no
+Secondary Malignancy_Liver,Secondary Malignancy_Liver,174,Cancers,1,single,no
+Secondary Malignancy_Lung,Secondary Malignancy_Lung,175,Cancers,1,single,no
+Secondary Malignancy_Lymph Nodes,Secondary Malignancy_Lymph Nodes,176,Cancers,1,single,no
+Secondary Malignancy_other,Secondary Malignancy_other,177,Cancers,1,single,no
+Secondary Malignancy_Peritoneum,Secondary Malignancy_Peritoneum,178,Cancers,1,single,no
+Secondary Malignancy_Pleura,Secondary Malignancy_Pleura,179,Cancers,1,single,no
+Secondary polycythaemia,Secondary polycythaemia,180,Haematological/Immunological conditions,9,single,no
+Secondary pulmonary hypertension,Secondary pulmonary hypertension,181,Diseases of the Circulatory System,2,single,no
+Secondary Thrombocytopaenia,Secondary Thrombocytopaenia,182,Haematological/Immunological conditions,9,single,no
+Sick sinus syndrome,Sick sinus syndrome,183,Diseases of the Circulatory System,2,single,no
+Sickle Cell Disease,Sickle Cell Disease,184,Haematological/Immunological conditions,9,single,no
+Sjogren's Syndrome,Sjogren's Syndrome,185,Musculoskeletal conditions,12,single,no
+Sleep apnoea,Sleep apnoea,186,Diseases of the Respiratory System,8,single,no
+Spina bifida,Spina bifida,187,Perinatal conditions,14,single,no
+Spinal stenosis,Spinal stenosis,188,Musculoskeletal conditions,12,single,no
+Spondylolisthesis,Spondylolisthesis,189,Musculoskeletal conditions,12,single,no
+Spondylosis,Spondylosis,190,Musculoskeletal conditions,12,single,no
+Stable Angina,Stable Angina,191,Diseases of the Circulatory System,2,single,no
+Stroke_not otherwise specified,Stroke_not otherwise specified,192,Diseases of the Circulatory System,2,single,no
+Subarachnoid haemorrhage,Subarachnoid haemorrhage,193,Diseases of the Circulatory System,2,single,no
+Substance Misuse,Substance Misuse,194,Mental Health Disorders,11,single,no
+Supraventricular tachycardia,Supraventricular tachycardia,195,Diseases of the Circulatory System,2,single,no
+Thalassaemia,Thalassaemia,196,Haematological/Immunological conditions,9,single,no
+Thrombophilia,Thrombophilia,197,Haematological/Immunological conditions,9,single,no
+Thyroid Disease,Thyroid Disease,198,Diseases of the Endocrine System,5,single,no
+Tinnitus,Tinnitus,199,Diseases of the Ear,4,multi,no
+Transient ischaemic attack,Transient ischaemic attack,200,Diseases of the Circulatory System,2,single,no
+Trifascicular block,Right bundle branch block combinations,163,Diseases of the Circulatory System,2,single,no
+Trigeminal neuralgia,Trigeminal neuralgia,201,Neurological conditions,13,single,no
+Tubulo-interstitial nephritis,Tubulo-interstitial nephritis,202,Diseases of the Genitourinary System,7,single,no
+Type 1 Diabetes Mellitus,Type 1 Diabetes Mellitus,203,Diseases of the Endocrine System,5,single,no
+Type 2 Diabetes Mellitus,Type 2 Diabetes Mellitus,204,Diseases of the Endocrine System,5,single,no
+Ulcerative colitis,Ulcerative colitis,205,Diseases of the Digestive System,3,single,no
+Unstable Angina,Unstable Angina,206,Diseases of the Circulatory System,2,single,no
+Urinary Incontinence,Urinary Incontinence,207,Diseases of the Genitourinary System,7,single,no
+Venous thromboembolic disease (Excl PE),Venous thromboembolic disease (Excl PE),208,Diseases of the Circulatory System,2,single,no
+Ventricular tachycardia,Ventricular tachycardia,209,Diseases of the Circulatory System,2,single,no
+Vitamin B12 deficiency anaemia,Vitamin B12 deficiency anaemia,211,Haematological/Immunological conditions,9,single,no
+Vitiligo,Vitiligo,212,Skin conditions,15,multi,no
