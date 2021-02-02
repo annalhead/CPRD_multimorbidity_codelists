@@ -1,4 +1,6 @@
 "read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"","Polycythaemia vera","","polycythaemia rubra vera","Diagnosis of Polycythaemia vera",122,"Cancers",1,"4417691000006111","128841001","474629017","originalreadcode"
+"","Polycythaemia vera","","polycythaemia vera","Diagnosis of Polycythaemia vera",122,"Cancers",1,"4417631000006112","128841001","4417631000006112","originalreadcode"
 "B671.00","Polycythaemia vera","37468","Chronic erythraemia","Diagnosis of Polycythaemia vera",122,"Cancers",1,"554151000006112","109992005","174698015","cleansedreadcode"
 "B671.11","Polycythaemia vera","63653","Heilmeyer - Schoner disease","Diagnosis of Polycythaemia vera",122,"Cancers",1,"819461000006112","109992005","174698015","cleansedreadcode"
 "B934.00","Polycythaemia vera","2481","Polycythaemia vera","Diagnosis of Polycythaemia vera",122,"Cancers",1,"344860011","109992005","344860011","cleansedreadcode"
@@ -6,5 +8,3 @@
 "B934.12","Polycythaemia vera","36790","Primary polycythaemia","Diagnosis of Polycythaemia vera",122,"Cancers",1,"2535663016","109992005","2535663016","cleansedreadcode"
 "BBs0.00","Polycythaemia vera","16922","[M]Polycythaemia vera","Diagnosis of Polycythaemia vera",122,"Cancers",1,"215919015","128841001","474628013","cleansedreadcode"
 "BBs0.11","Polycythaemia vera","58888","[M]Polycythaemia rubra vera","Diagnosis of Polycythaemia vera",122,"Cancers",1,"215920014","128841001","207439018","cleansedreadcode"
-"","Polycythaemia vera","","polycythaemia rubra vera","Diagnosis of Polycythaemia vera",122,"Cancers",1,"4417691000006111","128841001","474629017","originalreadcode"
-"","Polycythaemia vera","","polycythaemia vera","Diagnosis of Polycythaemia vera",122,"Cancers",1,"4417631000006112","128841001","4417631000006112","originalreadcode"

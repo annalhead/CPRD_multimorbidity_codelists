@@ -1,4 +1,6 @@
 "read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"","Thalassaemia","","alpha thalassaemia","Diagnosis of Thalassaemia",196,"Haematological/Immunological conditions",9,"3620681000006118","68913001","501134015","originalreadcode"
+"","Thalassaemia","","beta thalassaemia","Diagnosis of Thalassaemia",196,"Haematological/Immunological conditions",9,"3572551000006118","65959000","500269015","originalreadcode"
 "D104.00","Thalassaemia","1171","Thalassaemia","Diagnosis of Thalassaemia",196,"Haematological/Immunological conditions",9,"492446019","40108008","492446019","cleansedreadcode"
 "D104.12","Thalassaemia","105439","Mediterranean anaemia","Diagnosis of Thalassaemia",196,"Haematological/Immunological conditions",9,"711521000006117","40108008","492446019","cleansedreadcode"
 "D104000","Thalassaemia","31405","Thalassaemia major NEC","Diagnosis of Thalassaemia",196,"Haematological/Immunological conditions",9,"399206011","75451007","503017017","cleansedreadcode"
@@ -15,5 +17,3 @@
 "D104z00","Thalassaemia","4666","Thalassaemia NOS","Diagnosis of Thalassaemia",196,"Haematological/Immunological conditions",9,"399209016","40108008","492446019","cleansedreadcode"
 "D104z11","Thalassaemia","66137","Mediterranean anaemia","Diagnosis of Thalassaemia",196,"Haematological/Immunological conditions",9,"711531000006119","40108008","492446019","cleansedreadcode"
 "Dyu1100","Thalassaemia","73946","[X]Other thalassaemias","Diagnosis of Thalassaemia",196,"Haematological/Immunological conditions",9,"294586010","40108008","492446019","cleansedreadcode"
-"","Thalassaemia","","alpha thalassaemia","Diagnosis of Thalassaemia",196,"Haematological/Immunological conditions",9,"3620681000006118","68913001","501134015","originalreadcode"
-"","Thalassaemia","","beta thalassaemia","Diagnosis of Thalassaemia",196,"Haematological/Immunological conditions",9,"3572551000006118","65959000","500269015","originalreadcode"

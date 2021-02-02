@@ -1,4 +1,5 @@
 "read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"","Primary Malignancy_Liver","","hepatocellular carcinoma","Diagnosis of Primary Malignancy_Liver",134,"Cancers",1,"2905761000006112","25370001","42540010","originalreadcode"
 "B150.00","Primary Malignancy_Liver","25535","Primary malignant neoplasm of liver","Diagnosis of Primary Malignancy_Liver",134,"Cancers",1,"157732017","95214007","157732017","cleansedreadcode"
 "B150000","Primary Malignancy_Liver","16126","Primary carcinoma of liver","Diagnosis of Primary Malignancy_Liver",134,"Cancers",1,"288690014","187769009","288690014","cleansedreadcode"
 "B150100","Primary Malignancy_Liver","31210","Hepatoblastoma of liver","Diagnosis of Primary Malignancy_Liver",134,"Cancers",1,"342834014","109843000","342834014","cleansedreadcode"
@@ -14,4 +15,3 @@
 "BB5D711","Primary Malignancy_Liver","110147","[M]Hepatocholangiocarcinoma","Diagnosis of Primary Malignancy_Liver",134,"Cancers",1,"309851000006114","52178006","1231089017","cleansedreadcode"
 "BB5D800","Primary Malignancy_Liver","46771","[M]Hepatocellular carcinoma, fibrolamellar","Diagnosis of Primary Malignancy_Liver",134,"Cancers",1,"1221209015","15619004","1221210013","cleansedreadcode"
 "Byu1100","Primary Malignancy_Liver","43490","[X]Other specified carcinomas of liver","Diagnosis of Primary Malignancy_Liver",134,"Cancers",1,"292101010","109841003","342812012","cleansedreadcode"
-"","Primary Malignancy_Liver","","hepatocellular carcinoma","Diagnosis of Primary Malignancy_Liver",134,"Cancers",1,"2905761000006112","25370001","42540010","originalreadcode"

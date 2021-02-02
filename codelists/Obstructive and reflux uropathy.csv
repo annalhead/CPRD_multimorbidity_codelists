@@ -1,4 +1,5 @@
 "read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"","Obstructive and reflux uropathy","","hydronephrosis with renal and ureteral calculous obstruction","Diagnosis of Obstructive and reflux uropathy",107,"Diseases of the Genitourinary System",7,"12489211000006117","736640009","830021000006113","originalreadcode"
 "K11..00","Obstructive and reflux uropathy","3277","Hydronephrosis","Diagnosis of Obstructive and reflux uropathy",107,"Diseases of the Genitourinary System",7,"71850014","43064006","71850014","cleansedreadcode"
 "K110.00","Obstructive and reflux uropathy","2420","Hydrocalycosis","Diagnosis of Obstructive and reflux uropathy",107,"Diseases of the Genitourinary System",7,"118091018","71110009","118091018","cleansedreadcode"
 "K111.00","Obstructive and reflux uropathy","17778","Hydroureteronephrosis","Diagnosis of Obstructive and reflux uropathy",107,"Diseases of the Genitourinary System",7,"66749015","40068008","66749015","cleansedreadcode"
@@ -23,4 +24,3 @@
 "Kyu1200","Obstructive and reflux uropathy","107866","[X]Other obstructive and reflux uropathy","Diagnosis of Obstructive and reflux uropathy",107,"Diseases of the Genitourinary System",7,"305174013","7163005","12812019","cleansedreadcode"
 "Kyu1300","Obstructive and reflux uropathy","105941","[X]Obstructive and reflux uropathy, unspecified","Diagnosis of Obstructive and reflux uropathy",107,"Diseases of the Genitourinary System",7,"305175014","7163005","12812019","cleansedreadcode"
 "Kyu1F00","Obstructive and reflux uropathy","98067","[X]Hydronephrosis with ureteral stricture NEC","Diagnosis of Obstructive and reflux uropathy",107,"Diseases of the Genitourinary System",7,"305189016","43064006","71850014","cleansedreadcode"
-"","Obstructive and reflux uropathy","","hydronephrosis with renal and ureteral calculous obstruction","Diagnosis of Obstructive and reflux uropathy",107,"Diseases of the Genitourinary System",7,"12489211000006117","736640009","830021000006113","originalreadcode"

@@ -1,4 +1,5 @@
 "read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"","Primary Malignancy_Kidney","","hypernephroma","Diagnosis of Primary Malignancy_Kidney and Ureter",133,"Cancers",1,"3170661000006111","41607009","69408018","originalreadcode"
 "B4A..11","Primary Malignancy_Kidney","18712","Renal malignant neoplasm","Diagnosis of Primary Malignancy_Kidney and Ureter",133,"Cancers",1,"177051000006111","363518003","482823011","cleansedreadcode"
 "B4A0.00","Primary Malignancy_Kidney","1599","Malignant neoplasm of kidney parenchyma","Diagnosis of Primary Malignancy_Kidney and Ureter",133,"Cancers",1,"289285010","188250002","289285010","cleansedreadcode"
 "B4A0000","Primary Malignancy_Kidney","7978","Hypernephroma","Diagnosis of Primary Malignancy_Kidney and Ureter",133,"Cancers",1,"289288012","702391001","3648998018","cleansedreadcode"
@@ -10,4 +11,3 @@
 "BB5a000","Primary Malignancy_Kidney","10668","[M]Renal cell carcinoma","Diagnosis of Primary Malignancy_Kidney and Ureter",133,"Cancers",1,"315861000006111","41607009","1229779019","cleansedreadcode"
 "BB5a011","Primary Malignancy_Kidney","52266","[M]Grawitz tumour","Diagnosis of Primary Malignancy_Kidney and Ureter",133,"Cancers",1,"309571000006119","41607009","1229779019","cleansedreadcode"
 "BB5a012","Primary Malignancy_Kidney","15419","[M]Hypernephroma","Diagnosis of Primary Malignancy_Kidney and Ureter",133,"Cancers",1,"310241000006119","41607009","1229779019","cleansedreadcode"
-"","Primary Malignancy_Kidney","","hypernephroma","Diagnosis of Primary Malignancy_Kidney and Ureter",133,"Cancers",1,"3170661000006111","41607009","69408018","originalreadcode"

@@ -1,4 +1,5 @@
 "read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"","Primary Malignancy_Brain","","[m]glioma nos","Diagnosis of Primary Malignancy_Brain, Other CNS and Intracranial",130,"Cancers",1,"309261000006112","74532006","2552865010","description"
 "B51..00","Primary Malignancy_Brain","18617","Malignant neoplasm of brain","Diagnosis of Primary Malignancy_Brain, Other CNS and Intracranial",130,"Cancers",1,"2692069010","428061005","2692069010","cleansedreadcode"
 "B51..11","Primary Malignancy_Brain","10851","Cerebral tumour - malignant","Diagnosis of Primary Malignancy_Brain, Other CNS and Intracranial",130,"Cancers",1,"543111000006111","428061005","2692069010","cleansedreadcode"
 "B510.00","Primary Malignancy_Brain","15711","Malignant neoplasm cerebrum (excluding lobes and ventricles)","Diagnosis of Primary Malignancy_Brain, Other CNS and Intracranial",130,"Cancers",1,"727771000006111","188280007","289336015","cleansedreadcode"
@@ -86,4 +87,3 @@
 "ByuA100","Primary Malignancy_Brain","41515","[X]Malignant neoplasm/central nervous system, unspecified","Diagnosis of Primary Malignancy_Brain, Other CNS and Intracranial",130,"Cancers",1,"396491000006113","372062007","1210640010","cleansedreadcode"
 "ByuA200","Primary Malignancy_Brain","63925","[X]Malignant neoplasm of meninges, unspecified","Diagnosis of Primary Malignancy_Brain, Other CNS and Intracranial",130,"Cancers",1,"292152012","363497007","482781018","cleansedreadcode"
 "ByuA300","Primary Malignancy_Brain","47633","[X]Malig neopl, overlap lesion brain & other part of CNS","Diagnosis of Primary Malignancy_Brain, Other CNS and Intracranial",130,"Cancers",1,"396161000006113","109911004","174604014","cleansedreadcode"
-"","Primary Malignancy_Brain","","[m]glioma nos","Diagnosis of Primary Malignancy_Brain, Other CNS and Intracranial",130,"Cancers",1,"309261000006112","74532006","2552865010","description"

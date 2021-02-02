@@ -1,4 +1,6 @@
 "read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"","Rheumatic Valve Disorder","","rheumatic aortic valve disease nos","Diagnosis of Rheumatic valve dz",161,"Diseases of the Circulatory System",2,"12726481000006115","639461000000104","1408401000000119","originalreadcode"
+"","Rheumatic Valve Disorder","","rheumatic tricuspid valve disease nos","Diagnosis of Rheumatic valve dz",161,"Diseases of the Circulatory System",2,"12728231000006119","612101000000109","1353301000000115","originalreadcode"
 "G11..11","Rheumatic Valve Disorder","16545","Rheumatic mitral valve disease","Diagnosis of Rheumatic valve dz",161,"Diseases of the Circulatory System",2,"505828015","83898004","505828015","cleansedreadcode"
 "G110.00","Rheumatic Valve Disorder","1885","Mitral stenosis","Diagnosis of Rheumatic valve dz",161,"Diseases of the Circulatory System",2,"1234383014","79619009","1234383014","cleansedreadcode"
 "G110.11","Rheumatic Valve Disorder","32435","Rheumatic mitral stenosis","Diagnosis of Rheumatic valve dz",161,"Diseases of the Circulatory System",2,"143386015","86466006","143386015","cleansedreadcode"
@@ -30,5 +32,3 @@
 "G141z00","Rheumatic Valve Disorder","36768","Rheumatic pulmonary valve disease NOS","Diagnosis of Rheumatic valve dz",161,"Diseases of the Circulatory System",2,"299626016","18687009","31504012","cleansedreadcode"
 "G14z.11","Rheumatic Valve Disorder","59275","Rheumatic valvulitis, chronic NOS","Diagnosis of Rheumatic valve dz",161,"Diseases of the Circulatory System",2,"168651000006113","87648004","145328019","cleansedreadcode"
 "Gyu1100","Rheumatic Valve Disorder","94521","[X]Other rheumatic aortic valve diseases","Diagnosis of Rheumatic valve dz",161,"Diseases of the Circulatory System",2,"300864010","12023003","20718019","cleansedreadcode"
-"","Rheumatic Valve Disorder","","rheumatic aortic valve disease nos","Diagnosis of Rheumatic valve dz",161,"Diseases of the Circulatory System",2,"12726481000006115","639461000000104","1408401000000119","originalreadcode"
-"","Rheumatic Valve Disorder","","rheumatic tricuspid valve disease nos","Diagnosis of Rheumatic valve dz",161,"Diseases of the Circulatory System",2,"12728231000006119","612101000000109","1353301000000115","originalreadcode"

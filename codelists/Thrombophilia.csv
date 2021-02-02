@@ -1,4 +1,5 @@
 "read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"","Thrombophilia","","lupus anticoagulant positive","Diagnosis of Thrombophilia",197,"Haematological/Immunological conditions",9,"1858421000006115","1858421000006104","1858421000006115","originalreadcode"
 "42Qc.00","Thrombophilia","23134","Plasma activated protein C resistance","Diagnosis of Thrombophilia",197,"Haematological/Immunological conditions",9,"257494018","993351000000100","2554781000000111","cleansedreadcode"
 "42Qe.00","Thrombophilia","8674","Factor V Leiden genotype","Diagnosis of Thrombophilia",197,"Haematological/Immunological conditions",9,"257497013","993371000000109","2567831000000115","cleansedreadcode"
 "42jH.00","Thrombophilia","30873","Activated protein C with factor V deficient plasma","Diagnosis of Thrombophilia",197,"Haematological/Immunological conditions",9,"927311000006111","999311000000101","2555611000000111","cleansedreadcode"
@@ -11,4 +12,3 @@
 "D30A000","Thrombophilia","105875","Primary thrombophilia","Diagnosis of Thrombophilia",197,"Haematological/Immunological conditions",9,"2871986010","439698008","2871986010","cleansedreadcode"
 "D30B.00","Thrombophilia","26102","Protein C deficiency","Diagnosis of Thrombophilia",197,"Haematological/Immunological conditions",9,"1233987014","76407009","1233987014","cleansedreadcode"
 "N006.00","Thrombophilia","12177","Antiphospholipid syndrome","Diagnosis of Thrombophilia",197,"Haematological/Immunological conditions",9,"44918014","26843008","44918014","cleansedreadcode"
-"","Thrombophilia","","lupus anticoagulant positive","Diagnosis of Thrombophilia",197,"Haematological/Immunological conditions",9,"1858421000006115","1858421000006104","1858421000006115","originalreadcode"

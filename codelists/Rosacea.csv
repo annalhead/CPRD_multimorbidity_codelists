@@ -1,4 +1,6 @@
 "read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+NA,"Rosacea",NA,"Acne roscea",NA,164,"Skin conditions",15,"889291000006117","398909004","889291000006117","termsearch"
+NA,"Rosacea",NA,"Rosacea Of Face",NA,164,"Skin conditions",15,"889281000006115","398909004","889281000006115","termsearch"
 "F4C3100","Rosacea","30398","Rosacea conjunctivitis","Diagnosis of Rosacea",164,"Skin conditions",15,"17666017","371097007","1209805012","cleansedreadcode"
 "M153.00","Rosacea","970","Rosacea","Diagnosis of Rosacea",164,"Skin conditions",15,"1778393010","398909004","1778393010","cleansedreadcode"
 "M153000","Rosacea","1518","Acne rosacea","Diagnosis of Rosacea",164,"Skin conditions",15,"1786588010","398909004","1786588010","cleansedreadcode"
@@ -8,5 +10,3 @@
 "M153400","Rosacea","36835","Ocular rosacea","Diagnosis of Rosacea",164,"Skin conditions",15,"308694018","200933006","308694018","cleansedreadcode"
 "M153z00","Rosacea","16014","Rosacea NOS","Diagnosis of Rosacea",164,"Skin conditions",15,"308696016","398909004","1778393010","cleansedreadcode"
 "Myu6900","Rosacea","53876","[X]Other rosacea","Diagnosis of Rosacea",164,"Skin conditions",15,"309362013","398909004","1778393010","cleansedreadcode"
-NA,"Rosacea",NA,"Rosacea Of Face",NA,164,"Skin conditions",15,"889281000006115","398909004","889281000006115","termsearch"
-NA,"Rosacea",NA,"Acne roscea",NA,164,"Skin conditions",15,"889291000006117","398909004","889291000006117","termsearch"

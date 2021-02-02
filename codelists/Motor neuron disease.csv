@@ -1,4 +1,5 @@
 "read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+NA,"Motor neuron disease",NA,"[RFC] Motor neurone disease",NA,95,"Neurological conditions",13,"908821000006116","908821000006100","908821000006116","termsearch"
 "7Q04100","Motor neuron disease","109020","Amyotrophic lateral sclerosis drugs Band 1","History of Motor neuron disease",95,"Neurological conditions",13,"351861000000110","221551000000100","351861000000110","cleansedreadcode"
 "F15..00","Motor neuron disease","21889","Anterior horn cell disease","Diagnosis of Motor neuron disease",95,"Neurological conditions",13,"142016013","85672005","142016013","cleansedreadcode"
 "F152.00","Motor neuron disease","4796","Motor neurone disease","Diagnosis of Motor neuron disease",95,"Neurological conditions",13,"486695013","37340000","486695013","cleansedreadcode"
@@ -11,4 +12,3 @@
 "F152z00","Motor neuron disease","20120","Motor neurone disease NOS","Diagnosis of Motor neuron disease",95,"Neurological conditions",13,"297130012","37340000","486695013","cleansedreadcode"
 "F15y.00","Motor neuron disease","71400","Other anterior horn cell disease","Diagnosis of Motor neuron disease",95,"Neurological conditions",13,"297131011","85672005","142016013","cleansedreadcode"
 "F15z.00","Motor neuron disease","58729","Anterior horn cell disease NOS","Diagnosis of Motor neuron disease",95,"Neurological conditions",13,"297132016","85672005","142016013","cleansedreadcode"
-NA,"Motor neuron disease",NA,"[RFC] Motor neurone disease",NA,95,"Neurological conditions",13,"908821000006116","908821000006100","908821000006116","termsearch"

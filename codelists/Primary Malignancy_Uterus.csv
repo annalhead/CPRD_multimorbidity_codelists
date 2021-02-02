@@ -1,4 +1,5 @@
 "read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"","Primary Malignancy_Uterus","","malignant neoplasm of body of uterus nos","Diagnosis of Primary Malignancy_Uterine",149,"Cancers",1,"12732041000006119","570591000000106","1267991000000117","originalreadcode"
 "B40..00","Primary Malignancy_Uterus","2744","Malignant neoplasm of uterus, part unspecified","Diagnosis of Primary Malignancy_Uterine",149,"Cancers",1,"289166015","371973000","1210562019","cleansedreadcode"
 "B43..00","Primary Malignancy_Uterus","7046","Malignant neoplasm of body of uterus","Diagnosis of Primary Malignancy_Uterine",149,"Cancers",1,"1210561014","371972005","1210561014","cleansedreadcode"
 "B430.00","Primary Malignancy_Uterus","3213","Malignant neoplasm of corpus uteri, excluding isthmus","Diagnosis of Primary Malignancy_Uterine",149,"Cancers",1,"289187013","188189001","289187013","cleansedreadcode"
@@ -14,4 +15,3 @@
 "B432.00","Primary Malignancy_Uterus","16967","Malignant neoplasm of overlapping lesion of corpus uteri","Diagnosis of Primary Malignancy_Uterine",149,"Cancers",1,"289196013","188198003","289196013","cleansedreadcode"
 "B43y.00","Primary Malignancy_Uterus","31608","Malignant neoplasm of other site of uterine body","Diagnosis of Primary Malignancy_Uterine",149,"Cancers",1,"289197016","371972005","1210561014","cleansedreadcode"
 "B43z.00","Primary Malignancy_Uterus","33617","Malignant neoplasm of body of uterus NOS","Diagnosis of Primary Malignancy_Uterine",149,"Cancers",1,"289198014","371972005","1210561014","cleansedreadcode"
-"","Primary Malignancy_Uterus","","malignant neoplasm of body of uterus nos","Diagnosis of Primary Malignancy_Uterine",149,"Cancers",1,"12732041000006119","570591000000106","1267991000000117","originalreadcode"

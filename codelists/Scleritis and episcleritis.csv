@@ -1,4 +1,5 @@
 "read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+NA,"Scleritis and episcleritis",NA,"Scleritis/episcleritis",NA,167,"Diseases of the Eye",6,"883591000006116","267659002","883591000006116","termsearch"
 "F4K0.00","Scleritis and episcleritis","15996","Scleritis and episcleritis","Diagnosis of scleritis or episcleritis",167,"Diseases of the Eye",6,"399488011","267659002","399488011","cleansedreadcode"
 "F4K0.11","Scleritis and episcleritis","136","Episcleritis","Diagnosis of scleritis or episcleritis",167,"Diseases of the Eye",6,"2432010","815008","2432010","cleansedreadcode"
 "F4K0.12","Scleritis and episcleritis","5318","Scleritis","Diagnosis of scleritis or episcleritis",167,"Diseases of the Eye",6,"130057013","78370002","130057013","cleansedreadcode"
@@ -13,4 +14,3 @@
 "F4K0711","Scleritis and episcleritis","65835","Sclerotenonitis","Diagnosis of scleritis or episcleritis",167,"Diseases of the Eye",6,"347458011","231874004","347458011","cleansedreadcode"
 "F4K0z00","Scleritis and episcleritis","44859","Scleritis or episcleritis NOS","Diagnosis of scleritis or episcleritis",167,"Diseases of the Eye",6,"298867016","267659002","399488011","cleansedreadcode"
 "FyuD800","Scleritis and episcleritis","101293","[X]Scleritis+episcleritis in diseases CE","Diagnosis of scleritis or episcleritis",167,"Diseases of the Eye",6,"425741000006117","231872000","347456010","cleansedreadcode"
-NA,"Scleritis and episcleritis",NA,"Scleritis/episcleritis",NA,167,"Diseases of the Eye",6,"883591000006116","267659002","883591000006116","termsearch"

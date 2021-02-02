@@ -1,4 +1,5 @@
 "read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"","Tinnitus","","observation of tinnitus","Diagnosis of Tinnitus",199,"Diseases of the Ear",4,"4547941000006111","162349004","1221317014","originalreadcode"
 "1C2..00","Tinnitus","9927","Tinnitus symptoms","Diagnosis of Tinnitus",199,"Diseases of the Ear",4,"102721000006110","60862001","101130017","cleansedreadcode"
 "1C23.00","Tinnitus","12809","Ringing in ear","Diagnosis of Tinnitus",199,"Diseases of the Ear",4,"253173014","162352007","253173014","cleansedreadcode"
 "1C24.00","Tinnitus","17555","Hissing in ear","Diagnosis of Tinnitus",199,"Diseases of the Ear",4,"253174015","162353002","253174015","cleansedreadcode"
@@ -10,4 +11,3 @@
 "F583z00","Tinnitus","33737","Tinnitus NOS","Diagnosis of Tinnitus",199,"Diseases of the Ear",4,"299214018","60862001","101130017","cleansedreadcode"
 "Z911200","Tinnitus","46011","Fit tinnitus masker","Diagnosis of Tinnitus",199,"Diseases of the Ear",4,NA,NA,NA,"cleansedreadcode"
 "ZEB..00","Tinnitus","45977","Observation of tinnitus","Diagnosis of Tinnitus",199,"Diseases of the Ear",4,NA,NA,NA,"cleansedreadcode"
-"","Tinnitus","","observation of tinnitus","Diagnosis of Tinnitus",199,"Diseases of the Ear",4,"4547941000006111","162349004","1221317014","originalreadcode"

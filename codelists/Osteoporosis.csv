@@ -1,4 +1,5 @@
 "read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"","Osteoporosis","","osteoporosis localized to spine","Diagnosis of Osteoporosis",110,"Musculoskeletal conditions",12,"5992471000006115","309745002","453226012","originalreadcode"
 "58EG.00","Osteoporosis","42354","Hip DXA scan result osteoporotic","Diagnosis of Osteoporosis",110,"Musculoskeletal conditions",12,"1485098013","391070005","1485098013","cleansedreadcode"
 "58EM.00","Osteoporosis","39217","Lumbar DXA scan result osteoporotic","Diagnosis of Osteoporosis",110,"Musculoskeletal conditions",12,"1485103010","391075000","1485103010","cleansedreadcode"
 "58EV.00","Osteoporosis","96342","Femoral neck DEXA scan result osteoporotic","Diagnosis of Osteoporosis",110,"Musculoskeletal conditions",12,"668551000000116","440100002","3013373010","cleansedreadcode"
@@ -51,4 +52,3 @@
 "NyuB100","Osteoporosis","41755","[X]Other osteoporosis","Diagnosis of Osteoporosis",110,"Musculoskeletal conditions",12,"312682011","64859006","107806013","cleansedreadcode"
 "NyuB200","Osteoporosis","102730","[X]Osteoporosis in other disorders classified elsewhere","Diagnosis of Osteoporosis",110,"Musculoskeletal conditions",12,"312683018","64859006","107806013","cleansedreadcode"
 "NyuB800","Osteoporosis","18825","[X]Unspecified osteoporosis with pathological fracture","Diagnosis of Osteoporosis",110,"Musculoskeletal conditions",12,"312689019","443165006","2837900019","cleansedreadcode"
-"","Osteoporosis","","osteoporosis localized to spine","Diagnosis of Osteoporosis",110,"Musculoskeletal conditions",12,"5992471000006115","309745002","453226012","originalreadcode"

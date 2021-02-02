@@ -1,4 +1,6 @@
 "read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"","Endometriosis","","endometriosis of the pouch of douglas","Diagnosis of Endometriosis",55,"Diseases of the Genitourinary System",7,"3545641000006112","64286001","106864016","originalreadcode"
+"","Endometriosis","","internal endometriosis","Diagnosis of Endometriosis",55,"Diseases of the Genitourinary System",7,"3742411000006118","76376003","126837014","originalreadcode"
 "7E0D800","Endometriosis","12175","Laparoscopic laser destruction of endometriosis","Procedure for Endometriosis",55,"Diseases of the Genitourinary System",7,"2548653011","416155004","2548653011","cleansedreadcode"
 "BBL1.11","Endometriosis","56751","[M]Stromal endometriosis","Diagnosis of Endometriosis",55,"Diseases of the Genitourinary System",7,"317021000006116","128726006","207190013","cleansedreadcode"
 "K50..00","Endometriosis","499","Endometriosis","Diagnosis of Endometriosis",55,"Diseases of the Genitourinary System",7,"1784724014","129103003","1784724014","cleansedreadcode"
@@ -36,5 +38,3 @@
 "K50yz00","Endometriosis","66361","Other endometriosis NOS","Diagnosis of Endometriosis",55,"Diseases of the Genitourinary System",7,"304802016","129103003","1784724014","cleansedreadcode"
 "K50z.00","Endometriosis","9492","Endometriosis NOS","Diagnosis of Endometriosis",55,"Diseases of the Genitourinary System",7,"304803014","129103003","1784724014","cleansedreadcode"
 "Kyu9000","Endometriosis","63749","[X]Other endometriosis","Diagnosis of Endometriosis",55,"Diseases of the Genitourinary System",7,"305247015","129103003","1784724014","cleansedreadcode"
-"","Endometriosis","","endometriosis of the pouch of douglas","Diagnosis of Endometriosis",55,"Diseases of the Genitourinary System",7,"3545641000006112","64286001","106864016","originalreadcode"
-"","Endometriosis","","internal endometriosis","Diagnosis of Endometriosis",55,"Diseases of the Genitourinary System",7,"3742411000006118","76376003","126837014","originalreadcode"

@@ -1,4 +1,5 @@
 "read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"","Secondary Thrombocytopaenia","","heparin-induced thrombocytopenia","Diagnosis of Secondary or other Thrombocytopaenia",182,"Haematological/Immunological conditions",9,"121892018","73397007","1859641000006118","originalreadcode"
 "42P2.00","Secondary Thrombocytopaenia","4006","Thrombocytopenia","Diagnosis of Secondary or other Thrombocytopaenia",182,"Haematological/Immunological conditions",9,"1227080015","302215000","1227080015","cleansedreadcode"
 "42P8.00","Secondary Thrombocytopaenia","47751","Heparin induced thrombocytopenia screening test","Diagnosis of Secondary or other Thrombocytopaenia",182,"Haematological/Immunological conditions",9,"2159799011","1003111000000109","2585401000000118","cleansedreadcode"
 "C391200","Secondary Thrombocytopaenia","31322","Wiskott - Aldrich syndrome","Diagnosis of Secondary or other Thrombocytopaenia",182,"Haematological/Immunological conditions",9,"53821000006111","36070007","60191017","cleansedreadcode"
@@ -11,4 +12,3 @@
 "D314z00","Secondary Thrombocytopaenia","63910","Secondary thrombocytopenia NOS","Diagnosis of Secondary or other Thrombocytopaenia",182,"Haematological/Immunological conditions",9,"399236019","74576004","123868015","cleansedreadcode"
 "D315.00","Secondary Thrombocytopaenia","880","Thrombocytopenia NOS","Diagnosis of Secondary or other Thrombocytopaenia",182,"Haematological/Immunological conditions",9,"294389019","302215000","1227080015","cleansedreadcode"
 "G756100","Secondary Thrombocytopaenia","21697","Thrombotic thrombocytopenic purpura","Diagnosis of Secondary or other Thrombocytopaenia",182,"Haematological/Immunological conditions",9,"129661016","78129009","129661016","cleansedreadcode"
-"","Secondary Thrombocytopaenia","","heparin-induced thrombocytopenia","Diagnosis of Secondary or other Thrombocytopaenia",182,"Haematological/Immunological conditions",9,"121892018","73397007","1859641000006118","originalreadcode"

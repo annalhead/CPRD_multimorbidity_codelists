@@ -1,4 +1,5 @@
 "read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"","Myelodysplastic Syndrome","","refractory anaemia with sideroblasts","Diagnosis of Myelodysplastic syndromes",99,"Cancers",1,"4417981000006117","128846006","474638015","originalreadcode"
 "7Q09700","Myelodysplastic Syndrome","102712","Myelodysplastic syndrome drugs Band 1","Diagnosis of Myelodysplastic syndromes",99,"Cancers",1,"1694851000000112","764091000000100","1694851000000112","cleansedreadcode"
 "B937.14","Myelodysplastic Syndrome","14927","Myelodysplasia","Diagnosis of Myelodysplastic syndromes",99,"Cancers",1,"683041000006112","109995007","174702016","cleansedreadcode"
 "B937000","Myelodysplastic Syndrome","22890","Refractory anaemia without sideroblasts, so stated","Diagnosis of Myelodysplastic syndromes",99,"Cancers",1,"291252015","189509003","291252015","cleansedreadcode"
@@ -19,4 +20,3 @@
 "BBv..00","Myelodysplastic Syndrome","7799","[M]Myelodysplastic syndrome","Diagnosis of Myelodysplastic syndromes",99,"Cancers",1,"313331000006110","128623006","1208660014","cleansedreadcode"
 "ByuHD00","Myelodysplastic Syndrome","45143","[X]Myelodysplastic syndrome, unspecified","Diagnosis of Myelodysplastic syndromes",99,"Cancers",1,"292274012","109995007","2659757019","cleansedreadcode"
 "D213.00","Myelodysplastic Syndrome","16052","Refractory Anaemia","Diagnosis of Myelodysplastic syndromes",99,"Cancers",1,"344913019","109996008","344913019","cleansedreadcode"
-"","Myelodysplastic Syndrome","","refractory anaemia with sideroblasts","Diagnosis of Myelodysplastic syndromes",99,"Cancers",1,"4417981000006117","128846006","474638015","originalreadcode"

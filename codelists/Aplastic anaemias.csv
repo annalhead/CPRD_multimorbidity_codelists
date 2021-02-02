@@ -1,4 +1,5 @@
 "read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"","Aplastic anaemias","","congenital hypoplastic anaemia","Diagnosis of Aplastic anaemias",13,"Haematological/Immunological conditions",9,"3944091000006118","88854002","508244016","originalreadcode"
 "D20..00","Aplastic anaemias","15422","Aplastic anaemia","Diagnosis of Aplastic anaemias",13,"Haematological/Immunological conditions",9,"448863016","306058006","448863016","cleansedreadcode"
 "D200.00","Aplastic anaemias","69027","Constitutional aplastic anaemia","Diagnosis of Aplastic anaemias",13,"Haematological/Immunological conditions",9,"590121000006115","28975000","484030019","cleansedreadcode"
 "D200.13","Aplastic anaemias","109273","Blackfan - Diamond syndrome","Diagnosis of Aplastic anaemias",13,"Haematological/Immunological conditions",9,"514811000006112","5315003","496572011","cleansedreadcode"
@@ -42,4 +43,3 @@
 "D204.00","Aplastic anaemias","41142","Idiopathic aplastic anaemia","Diagnosis of Aplastic anaemias",13,"Haematological/Immunological conditions",9,"294223017","191256002","294223017","cleansedreadcode"
 "D20X.00","Aplastic anaemias","69269","Acquired pure red cell aplasia, unspecified","Diagnosis of Aplastic anaemias",13,"Haematological/Immunological conditions",9,"454501000006110","234370001","351127015","cleansedreadcode"
 "D20z.00","Aplastic anaemias","68087","Aplastic anaemia NOS","Diagnosis of Aplastic anaemias",13,"Haematological/Immunological conditions",9,"294227016","306058006","448863016","cleansedreadcode"
-"","Aplastic anaemias","","congenital hypoplastic anaemia","Diagnosis of Aplastic anaemias",13,"Haematological/Immunological conditions",9,"3944091000006118","88854002","508244016","originalreadcode"

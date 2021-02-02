@@ -1,4 +1,5 @@
 "read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"","Glomerulonephritis","","recurrent and persistent haematuria, dense deposit disease","Diagnosis of Glomerulonephritis",66,"Diseases of the Genitourinary System",7,"11904541000006117","281860005","189231000006110","originalreadcode"
 "D310100","Glomerulonephritis","22897","Henoch-Schonlein nephritis","Diagnosis of Glomerulonephritis",66,"Diseases of the Genitourinary System",7,"354514013","236504007","354514013","cleansedreadcode"
 "G752111","Glomerulonephritis","107564","Antiglomerular basement membrane disease","Diagnosis of Glomerulonephritis",66,"Diseases of the Genitourinary System",7,"354518011","236506009","354518011","cleansedreadcode"
 "G752112","Glomerulonephritis","107045","Anti GBM disease - Antiglomerular basement membrane disease","Diagnosis of Glomerulonephritis",66,"Diseases of the Genitourinary System",7,"2214081000000112","236506009","2214081000000112","cleansedreadcode"
@@ -111,4 +112,3 @@
 "K0A7.00","Glomerulonephritis","55548","Glom disordr in blood diseas+disordr invlvg imun mechansm","Diagnosis of Glomerulonephritis",66,"Diseases of the Genitourinary System",7,"803321000006112","197739000","304037019","cleansedreadcode"
 "K0A8.00","Glomerulonephritis","105859","Rapidly progressive glomerulonephritis","Diagnosis of Glomerulonephritis",66,"Diseases of the Genitourinary System",7,"354352010","236392004","354352010","cleansedreadcode"
 "Kyu0900","Glomerulonephritis","71709","[X]Unsp nephrit synd, diff mesang prolif glomerulonephritis","Diagnosis of Glomerulonephritis",66,"Diseases of the Genitourinary System",7,"430101000006111","197679002","303967017","cleansedreadcode"
-"","Glomerulonephritis","","recurrent and persistent haematuria, dense deposit disease","Diagnosis of Glomerulonephritis",66,"Diseases of the Genitourinary System",7,"11904541000006117","281860005","189231000006110","originalreadcode"

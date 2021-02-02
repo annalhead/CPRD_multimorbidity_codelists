@@ -1,4 +1,5 @@
 "read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"","Primary Malignancy_Melanoma","","malignant melanoma of skin nos","Diagnosis of Primary Malignancy_Malignant Melanoma",136,"Cancers",1,"12723281000006111","546881000000105","1218841000000118","originalreadcode"
 "4M3..00","Primary Malignancy_Melanoma","57294","Breslow depth staging for melanoma","Diagnosis of Primary Malignancy_Malignant Melanoma",136,"Cancers",1,"170673014","106243009","170673014","cleansedreadcode"
 "4M70.00","Primary Malignancy_Melanoma","101198","Clark melanoma level 1","Diagnosis of Primary Malignancy_Malignant Melanoma",136,"Cancers",1,"138122012","83284001","138122012","cleansedreadcode"
 "4M71.00","Primary Malignancy_Melanoma","104609","Clark melanoma level 2","Diagnosis of Primary Malignancy_Malignant Melanoma",136,"Cancers",1,"84190018","50542000","84190018","cleansedreadcode"
@@ -83,4 +84,3 @@
 "BBET.00","Primary Malignancy_Melanoma","40303","[M]Mixed epithelioid and spindle melanoma","Diagnosis of Primary Malignancy_Malignant Melanoma",136,"Cancers",1,"312851000006119","50813003","84682017","cleansedreadcode"
 "Byu4000","Primary Malignancy_Melanoma","56925","[X]Malignant melanoma of other+unspecified parts of face","Diagnosis of Primary Malignancy_Malignant Melanoma",136,"Cancers",1,"396171000006118","93225001","154247017","cleansedreadcode"
 "Byu4100","Primary Malignancy_Melanoma","19444","[X]Malignant melanoma of skin, unspecified","Diagnosis of Primary Malignancy_Malignant Melanoma",136,"Cancers",1,"292118014","93655004","155060012","cleansedreadcode"
-"","Primary Malignancy_Melanoma","","malignant melanoma of skin nos","Diagnosis of Primary Malignancy_Malignant Melanoma",136,"Cancers",1,"12723281000006111","546881000000105","1218841000000118","originalreadcode"

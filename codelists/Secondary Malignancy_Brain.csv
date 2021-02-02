@@ -1,7 +1,7 @@
 "read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"","Secondary Malignancy_Brain","","secondary malignant neoplasm of spinal cord","Diagnosis of Secondary Malignancy_Brain, Other CNS and Intracranial",173,"Cancers",1,"4040231000006113","94600009","156825010","originalreadcode"
 "B583.00","Secondary Malignancy_Brain","33843","Secondary malignant neoplasm of brain and spinal cord","Diagnosis of Secondary Malignancy_Brain, Other CNS and Intracranial",173,"Cancers",1,"289546019","188462001","289546019","cleansedreadcode"
 "B583000","Secondary Malignancy_Brain","5198","Secondary malignant neoplasm of brain","Diagnosis of Secondary Malignancy_Brain, Other CNS and Intracranial",173,"Cancers",1,"155879014","94225005","155879014","cleansedreadcode"
 "B583100","Secondary Malignancy_Brain","38918","Secondary malignant neoplasm of spinal cord","Diagnosis of Secondary Malignancy_Brain, Other CNS and Intracranial",173,"Cancers",1,"156825010","94600009","1235865016","cleansedreadcode"
 "B583200","Secondary Malignancy_Brain","5199","Cerebral metastasis","Diagnosis of Secondary Malignancy_Brain, Other CNS and Intracranial",173,"Cancers",1,"543041000006111","94248000","1235820013","cleansedreadcode"
 "B583z00","Secondary Malignancy_Brain","59375","Secondary malignant neoplasm of brain or spinal cord NOS","Diagnosis of Secondary Malignancy_Brain, Other CNS and Intracranial",173,"Cancers",1,"289549014","188462001","289546019","cleansedreadcode"
-"","Secondary Malignancy_Brain","","secondary malignant neoplasm of spinal cord","Diagnosis of Secondary Malignancy_Brain, Other CNS and Intracranial",173,"Cancers",1,"4040231000006113","94600009","156825010","originalreadcode"

@@ -1,5 +1,7 @@
 "read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
 "212R.00","Atrial Fibrillation","28994","Atrial fibrillation resolved","History of atrial fibrillation or flutter (1)",16,"Diseases of the Circulatory System",2,"294601000000110","196371000000102","294601000000110","cleansedreadcode"
+"3272","Atrial Fibrillation","3757","ECG: atrial fibrillation","Atrial fibrillation, not otherwise specified (5)",16,"Diseases of the Circulatory System",2,"256478018","164889003","256478018","originalreadcode"
+"3273","Atrial Fibrillation","6771","ECG: atrial flutter","Atrial flutter (7)",16,"Diseases of the Circulatory System",2,"256479014","164890007","256479014","originalreadcode"
 "662S.00","Atrial Fibrillation","18746","Atrial fibrillation monitoring","Atrial fibrillation monitoring (2)",16,"Diseases of the Circulatory System",2,"216183015","134377004","216183015","cleansedreadcode"
 "6A9..00","Atrial Fibrillation","45773","Atrial fibrillation annual review","Atrial fibrillation monitoring (2)",16,"Diseases of the Circulatory System",2,"406861000000119","248411000000105","406861000000119","cleansedreadcode"
 "9Os..00","Atrial Fibrillation","57832","Atrial fibrillation monitoring administration","Atrial fibrillation monitoring (2)",16,"Diseases of the Circulatory System",2,"406251000000118","713801000000102","1565041000000112","cleansedreadcode"
@@ -18,5 +20,3 @@
 "G573400","Atrial Fibrillation","96277","Permanent atrial fibrillation","Persistent or permanent atrial fibrillation (4)",16,"Diseases of the Circulatory System",2,"636721000000112","440028005","2793259018","cleansedreadcode"
 "G573500","Atrial Fibrillation","96076","Persistent atrial fibrillation","Persistent or permanent atrial fibrillation (4)",16,"Diseases of the Circulatory System",2,"636701000000115","440059007","2793372019","cleansedreadcode"
 "G573z00","Atrial Fibrillation","23437","Atrial fibrillation and flutter NOS","Atrial fibrillation or flutter (6)",16,"Diseases of the Circulatory System",2,"300132017","195080001","300130013","cleansedreadcode"
-"3272","Atrial Fibrillation","3757","ECG: atrial fibrillation","Atrial fibrillation, not otherwise specified (5)",16,"Diseases of the Circulatory System",2,"256478018","164889003","256478018","originalreadcode"
-"3273","Atrial Fibrillation","6771","ECG: atrial flutter","Atrial flutter (7)",16,"Diseases of the Circulatory System",2,"256479014","164890007","256479014","originalreadcode"

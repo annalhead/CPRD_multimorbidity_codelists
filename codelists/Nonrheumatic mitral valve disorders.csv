@@ -1,4 +1,6 @@
 "read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"","Nonrheumatic mitral valve disorders","","mitral valve disease nos","Diagnosis of Nonrheumatic mitral valve disorders",104,"Diseases of the Circulatory System",2,"12726471000006118","639451000000102","1408371000000116","originalreadcode"
+"","Nonrheumatic mitral valve disorders","","mitral valve incompetence","Diagnosis of Nonrheumatic mitral valve disorders",104,"Diseases of the Circulatory System",2,"3288481000006112","48724000","81191015","originalreadcode"
 "G11..00","Nonrheumatic mitral valve disorders","1267","Mitral valve diseases","Diagnosis of Nonrheumatic mitral valve disorders",104,"Diseases of the Circulatory System",2,"219511000000113","11851006","444757013","cleansedreadcode"
 "G114.00","Nonrheumatic mitral valve disorders","57633","Ruptured mitral valve cusp","Diagnosis of Nonrheumatic mitral valve disorders",104,"Diseases of the Circulatory System",2,"159271000006119","251003004","374137013","cleansedreadcode"
 "G11z.00","Nonrheumatic mitral valve disorders","30443","Mitral valve disease NOS","Diagnosis of Nonrheumatic mitral valve disorders",104,"Diseases of the Circulatory System",2,"299596016","11851006","444757013","cleansedreadcode"
@@ -14,5 +16,3 @@
 "G540z00","Nonrheumatic mitral valve disorders","24557","Mitral valve disorders NOS","Diagnosis of Nonrheumatic mitral valve disorders",104,"Diseases of the Circulatory System",2,"299984017","11851006","20449013","cleansedreadcode"
 "Gyu1000","Nonrheumatic mitral valve disorders","53756","[X]Other mitral valve diseases","Diagnosis of Nonrheumatic mitral valve disorders",104,"Diseases of the Circulatory System",2,"300863016","11851006","20449013","cleansedreadcode"
 "Gyu5500","Nonrheumatic mitral valve disorders","98560","[X]Other nonrheumatic mitral valve disorders","Diagnosis of Nonrheumatic mitral valve disorders",104,"Diseases of the Circulatory System",2,"412241000006110","11851006","20449013","cleansedreadcode"
-"","Nonrheumatic mitral valve disorders","","mitral valve disease nos","Diagnosis of Nonrheumatic mitral valve disorders",104,"Diseases of the Circulatory System",2,"12726471000006118","639451000000102","1408371000000116","originalreadcode"
-"","Nonrheumatic mitral valve disorders","","mitral valve incompetence","Diagnosis of Nonrheumatic mitral valve disorders",104,"Diseases of the Circulatory System",2,"3288481000006112","48724000","81191015","originalreadcode"

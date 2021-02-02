@@ -1,4 +1,5 @@
 "read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"","Fibromatosis","","palmar fasciectomy unspecified","Procedure for Fibromatoses",60,"Musculoskeletal conditions",12,"12729591000006114","652091000000106","1433771000000119","originalreadcode"
 "7H32000","Fibromatosis","10554","Palmar fasciectomy unspecified","Procedure for Fibromatoses",60,"Musculoskeletal conditions",12,"393495014","24437000","1784955013","cleansedreadcode"
 "7H32011","Fibromatosis","1629","Dupuytren hand fasciectomy","Procedure for Fibromatoses",60,"Musculoskeletal conditions",12,"632501000006115","398211002","1777763016","cleansedreadcode"
 "7H32013","Fibromatosis","66133","McIndoe radical palmar fasciectomy","Procedure for Fibromatoses",60,"Musculoskeletal conditions",12,"1786172019","398211002","1786172019","cleansedreadcode"
@@ -23,4 +24,3 @@
 "N236700","Fibromatosis","25701","Dupuytren's dis, palm and finger(s), nodules, no contracture","Diagnosis of Fibromatoses",60,"Musculoskeletal conditions",12,"632531000006111","203053009","311632016","cleansedreadcode"
 "N236800","Fibromatosis","44537","Dupuytren's disease of palm and finger(s), with contracture","Diagnosis of Fibromatoses",60,"Musculoskeletal conditions",12,"311633014","203054003","311633014","cleansedreadcode"
 "N237100","Fibromatosis","21080","Knuckle pads","Diagnosis of Fibromatoses",60,"Musculoskeletal conditions",12,"28257010","16687001","28257010","cleansedreadcode"
-"","Fibromatosis","","palmar fasciectomy unspecified","Procedure for Fibromatoses",60,"Musculoskeletal conditions",12,"12729591000006114","652091000000106","1433771000000119","originalreadcode"

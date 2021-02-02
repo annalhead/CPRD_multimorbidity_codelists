@@ -1,4 +1,6 @@
 "read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"","Posterior Uveitis","","choroiditis nos","Diagnosis of posterior uveitis",125,"Diseases of the Eye",6,"12728121000006110","610821000000109","1350711000000113","originalreadcode"
+"","Posterior Uveitis","","vogt-koyanagi syndrome","Diagnosis of posterior uveitis",125,"Diseases of the Eye",6,"4772061000006111","193497004","2870945014","originalreadcode"
 "A173000","Posterior Uveitis","37329","Tuberculous chorioretinitis","Diagnosis of posterior uveitis",125,"Diseases of the Eye",6,"286317012","186263000","286317012","cleansedreadcode"
 "A900.12","Posterior Uveitis","50581","Congenital syphilitic choroiditis","Diagnosis of posterior uveitis",125,"Diseases of the Eye",6,"17368014","266125005","395386019","cleansedreadcode"
 "A915100","Posterior Uveitis","72903","Secondary syphilitic chorioretinitis","Diagnosis of posterior uveitis",125,"Diseases of the Eye",6,"110078018","66281009","110078018","cleansedreadcode"
@@ -33,5 +35,3 @@
 "F432z00","Posterior Uveitis","16194","Other chorioretinitis or retinochoroiditis NOS","Diagnosis of posterior uveitis",125,"Diseases of the Eye",6,"297913014","46627006","77715016","cleansedreadcode"
 "F442300","Posterior Uveitis","36804","Vogt-Koyanagi syndrome","Diagnosis of posterior uveitis",125,"Diseases of the Eye",6,"62891000006110","193497004","297974013","cleansedreadcode"
 "FyuF000","Posterior Uveitis","53869","[X]Other chorioretinal inflammations","Diagnosis of posterior uveitis",125,"Diseases of the Eye",6,"299471017","46627006","77715016","cleansedreadcode"
-"","Posterior Uveitis","","choroiditis nos","Diagnosis of posterior uveitis",125,"Diseases of the Eye",6,"12728121000006110","610821000000109","1350711000000113","originalreadcode"
-"","Posterior Uveitis","","vogt-koyanagi syndrome","Diagnosis of posterior uveitis",125,"Diseases of the Eye",6,"4772061000006111","193497004","2870945014","originalreadcode"

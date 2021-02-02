@@ -1,4 +1,5 @@
 "read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"","Ischaemic stroke","","cerebral infarction nos","Diagnosis of Ischaemic stroke",87,"Diseases of the Circulatory System",2,"12727431000006119","682621000000105","1495311000000117","originalreadcode"
 "G63..11","Ischaemic stroke","57495","Infarction - precerebral","Diagnosis of Ischaemic stroke",87,"Diseases of the Circulatory System",2,"345639010","230692004","345639010","cleansedreadcode"
 "G63y000","Ischaemic stroke","23671","Cerebral infarct due to thrombosis of precerebral arteries","Diagnosis of Ischaemic stroke",87,"Diseases of the Circulatory System",2,"300312010","195185009","300312010","cleansedreadcode"
 "G63y100","Ischaemic stroke","24446","Cerebral infarction due to embolism of precerebral arteries","Diagnosis of Ischaemic stroke",87,"Diseases of the Circulatory System",2,"300313017","195186005","300313017","cleansedreadcode"
@@ -26,4 +27,3 @@
 "Gyu6300","Ischaemic stroke","91627","[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs","Diagnosis of Ischaemic stroke",87,"Diseases of the Circulatory System",2,"370701000006118","20059004","33759015","cleansedreadcode"
 "Gyu6400","Ischaemic stroke","53745","[X]Other cerebral infarction","Diagnosis of Ischaemic stroke",87,"Diseases of the Circulatory System",2,"300941014","432504007","2770034014","cleansedreadcode"
 "Gyu6G00","Ischaemic stroke","94482","[X]Cereb infarct due unsp occlus/stenos precerebr arteries","Diagnosis of Ischaemic stroke",87,"Diseases of the Circulatory System",2,"370661000006114","125081000119106","3042974014","cleansedreadcode"
-"","Ischaemic stroke","","cerebral infarction nos","Diagnosis of Ischaemic stroke",87,"Diseases of the Circulatory System",2,"12727431000006119","682621000000105","1495311000000117","originalreadcode"

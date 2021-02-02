@@ -1,4 +1,5 @@
 "read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"","Primary Malignancy_Testis","","teratoma of descended testis","Diagnosis of Primary Malignancy_Testicular",147,"Cancers",1,"12450991000006117","417554000","109371000006115","originalreadcode"
 "B47..00","Primary Malignancy_Testis","15148","Malignant neoplasm of testis","Diagnosis of Primary Malignancy_Testicular",147,"Cancers",1,"721171000006119","363449006","482694014","cleansedreadcode"
 "B470.00","Primary Malignancy_Testis","64602","Malignant neoplasm of undescended testis","Diagnosis of Primary Malignancy_Testicular",147,"Cancers",1,"289223017","188219004","289223017","cleansedreadcode"
 "B470200","Primary Malignancy_Testis","7740","Seminoma of undescended testis","Diagnosis of Primary Malignancy_Testicular",147,"Cancers",1,"457318018","313428008","457318018","cleansedreadcode"
@@ -11,4 +12,3 @@
 "B47z.00","Primary Malignancy_Testis","38510","Malignant neoplasm of testis NOS","Diagnosis of Primary Malignancy_Testicular",147,"Cancers",1,"403702017","363449006","482694014","cleansedreadcode"
 "B47z.11","Primary Malignancy_Testis","2961","Seminoma of testis","Diagnosis of Primary Malignancy_Testicular",147,"Cancers",1,"380180017","255107005","380180017","cleansedreadcode"
 "B47z.12","Primary Malignancy_Testis","15989","Teratoma of testis","Diagnosis of Primary Malignancy_Testicular",147,"Cancers",1,"109381000006117","416769008","2549298016","cleansedreadcode"
-"","Primary Malignancy_Testis","","teratoma of descended testis","Diagnosis of Primary Malignancy_Testicular",147,"Cancers",1,"12450991000006117","417554000","109371000006115","originalreadcode"

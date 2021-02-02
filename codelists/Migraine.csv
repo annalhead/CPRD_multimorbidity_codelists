@@ -1,4 +1,5 @@
 "read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"","Migraine","","classical migraine","Diagnosis of Migraine",94,"Neurological conditions",13,"2570161000006115","4473006","7596016","originalreadcode"
 "8B6N.00","Migraine","11389","Migraine prophylaxis","History of Migraine",94,"Neurological conditions",13,"2159945013","408381007","2159945013","cleansedreadcode"
 "F26..00","Migraine","161","Migraine","Diagnosis of Migraine",94,"Neurological conditions",13,"63055014","37796009","63055014","cleansedreadcode"
 "F260.00","Migraine","3220","Classical migraine","Diagnosis of Migraine",94,"Neurological conditions",13,"7596016","230462002","345348012","cleansedreadcode"
@@ -23,4 +24,3 @@
 "F26z.00","Migraine","14700","Migraine NOS","Diagnosis of Migraine",94,"Neurological conditions",13,"297356014","37796009","63055014","cleansedreadcode"
 "Fyu5300","Migraine","53813","[X]Other migraine","Diagnosis of Migraine",94,"Neurological conditions",13,"299338017","37796009","63055014","cleansedreadcode"
 "K584.11","Migraine","11138","Migraine - menstrual","Diagnosis of Migraine",94,"Neurological conditions",13,"221281000000113","23186000","38943013","cleansedreadcode"
-"","Migraine","","classical migraine","Diagnosis of Migraine",94,"Neurological conditions",13,"2570161000006115","4473006","7596016","originalreadcode"

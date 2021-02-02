@@ -1,4 +1,4 @@
 "read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"","Idiopathic Intracranial Hypertension","","pseudotumour cerebri","Diagnosis of Idiopathic intracranial hypertension",81,"Neurological conditions",13,"3610791000006116","68267002","500972019","originalreadcode"
 "F282.00","Idiopathic Intracranial Hypertension","5433","Benign intracranial hypertension","Diagnosis of Idiopathic intracranial hypertension",81,"Neurological conditions",13,"113392018","68267002","113392018","cleansedreadcode"
 "F282.11","Idiopathic Intracranial Hypertension","46041","Pseudotumour cerebri","Diagnosis of Idiopathic intracranial hypertension",81,"Neurological conditions",13,"500972019","68267002","1233031015","cleansedreadcode"
-"","Idiopathic Intracranial Hypertension","","pseudotumour cerebri","Diagnosis of Idiopathic intracranial hypertension",81,"Neurological conditions",13,"3610791000006116","68267002","500972019","originalreadcode"

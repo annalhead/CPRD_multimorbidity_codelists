@@ -1,4 +1,6 @@
 "read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"","Unstable Angina","","acute coronary syndrome","ACS diagnosed (3)",206,"Diseases of the Circulatory System",2,"931961000006117","194823009","931961000006117","description"
+"","Unstable Angina","","unstable angina","Unstable angina (3)",206,"Diseases of the Circulatory System",2,"854491000006113","854491000006109","854491000006113","originalreadcode"
 "662K300","Unstable Angina","29300","Angina control - worsening","Worsening angina (2)",206,"Diseases of the Circulatory System",2,"264496010","170597008","264496010","cleansedreadcode"
 "G311.00","Unstable Angina","36523","Preinfarction syndrome","Unstable angina (3)",206,"Diseases of the Circulatory System",2,"7844010","4557003","494262012","cleansedreadcode"
 "G311.11","Unstable Angina","4656","Crescendo angina","Unstable angina (3)",206,"Diseases of the Circulatory System",2,"7847015","4557003","7847015","cleansedreadcode"
@@ -14,6 +16,3 @@
 "G312.00","Unstable Angina","39449","Coronary thrombosis not resulting in myocardial infarction","Unstable angina (3)",206,"Diseases of the Circulatory System",2,"299742017","194821006","299742017","cleansedreadcode"
 "G31y000","Unstable Angina","9276","Acute coronary insufficiency","Unstable angina (3)",206,"Diseases of the Circulatory System",2,"299745015","194823009","299745015","cleansedreadcode"
 "G33z000","Unstable Angina","66388","Status anginosus","Unstable angina (3)",206,"Diseases of the Circulatory System",2,"32122016","19057007","32122016","cleansedreadcode"
-"","Unstable Angina","","unstable angina","Unstable angina (3)",206,"Diseases of the Circulatory System",2,"854491000006113","854491000006109","854491000006113","originalreadcode"
-"","Unstable Angina","","unstable angina","Unstable angina (3)",206,"Diseases of the Circulatory System",2,"854491000006113","854491000006109","854491000006113","originalreadcode"
-"","Unstable Angina","","acute coronary syndrome","ACS diagnosed (3)",206,"Diseases of the Circulatory System",2,"931961000006117","194823009","931961000006117","description"

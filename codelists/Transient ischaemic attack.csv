@@ -1,4 +1,6 @@
 "read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"","Transient ischaemic attack","","tga - transient global amnesia","Diagnosis of TIA",200,"Diseases of the Circulatory System",2,"5011841000006110","230736007","345719015","originalreadcode"
+"","Transient ischaemic attack","","transient cerebral ischaemia nos","Diagnosis of TIA",200,"Diseases of the Circulatory System",2,"12733221000006110","584181000000100","1296321000000119","originalreadcode"
 "1B1S.00","Transient ischaemic attack","28278","Transient global amnesia","Diagnosis of TIA",200,"Diseases of the Circulatory System",2,"345718011","230736007","345718011","cleansedreadcode"
 "8CRB.00","Transient ischaemic attack","100015","Transient ischaemic attack clinical management plan","Diagnosis of TIA",200,"Diseases of the Circulatory System",2,"1148331000000111","736288002","3517033016","cleansedreadcode"
 "F423600","Transient ischaemic attack","1195","Amaurosis fugax","Diagnosis of TIA",200,"Diseases of the Circulatory System",2,"145925010","88032003","145925010","cleansedreadcode"
@@ -16,6 +18,3 @@
 "G65zz00","Transient ischaemic attack","15788","Transient cerebral ischaemia NOS","Diagnosis of TIA",200,"Diseases of the Circulatory System",2,"300349016","266257000","395788015","cleansedreadcode"
 "Z7CE700","Transient ischaemic attack","18996","Transient global amnesia","Diagnosis of TIA",200,"Diseases of the Circulatory System",2,NA,NA,NA,"cleansedreadcode"
 "Z7CE711","Transient ischaemic attack","19004","TGA - Transient global amnesia","Diagnosis of TIA",200,"Diseases of the Circulatory System",2,NA,NA,NA,"cleansedreadcode"
-"","Transient ischaemic attack","","tga - transient global amnesia","Diagnosis of TIA",200,"Diseases of the Circulatory System",2,"5011841000006110","230736007","345719015","originalreadcode"
-"","Transient ischaemic attack","","transient cerebral ischaemia nos","Diagnosis of TIA",200,"Diseases of the Circulatory System",2,"12733221000006110","584181000000100","1296321000000119","originalreadcode"
-"","Transient ischaemic attack","","transient cerebral ischaemia nos","Diagnosis of TIA",200,"Diseases of the Circulatory System",2,"12733221000006110","584181000000100","1296321000000119","originalreadcode"

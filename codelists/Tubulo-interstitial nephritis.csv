@@ -1,4 +1,5 @@
 "read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"","Tubulo-interstitial nephritis","","[x]renal tubulo-interstitial diseases","Diagnosis of Tubulo-interstitial nephritis",202,"Diseases of the Genitourinary System",7,"12703931000006113","28689008","424761000006119","originalreadcode"
 "K03T.00","Tubulo-interstitial nephritis","23990","Tubulo-interstit nephritis, not specif as acute or chron","Diagnosis of Tubulo-interstitial nephritis",202,"Diseases of the Genitourinary System",7,"83331000006110","428255004","2694843016","cleansedreadcode"
 "K03y200","Tubulo-interstitial nephritis","34669","Other interstitial nephritis","Diagnosis of Tubulo-interstitial nephritis",202,"Diseases of the Genitourinary System",7,"303905010","28689008","48036015","cleansedreadcode"
 "K0B..00","Tubulo-interstitial nephritis","45523","Renal tubulo-interstitial disorders in diseases EC","Diagnosis of Tubulo-interstitial nephritis",202,"Diseases of the Genitourinary System",7,"177321000006116","28689008","48036015","cleansedreadcode"
@@ -18,4 +19,3 @@
 "Kyu1000","Tubulo-interstitial nephritis","101453","[X]Other chronic tubulo-interstitial nephritis","Diagnosis of Tubulo-interstitial nephritis",202,"Diseases of the Genitourinary System",7,"305172012","60926001","101225013","cleansedreadcode"
 "Kyu1400","Tubulo-interstitial nephritis","72478","[X]Nephropathy induced by other drugs+biological substances","Diagnosis of Tubulo-interstitial nephritis",202,"Diseases of the Genitourinary System",7,"399791000006112","28689008","48036015","cleansedreadcode"
 "Kyu1E00","Tubulo-interstitial nephritis","103757","[X]Tubulo-interstit nephritis, not specif as acute or chron","Diagnosis of Tubulo-interstitial nephritis",202,"Diseases of the Genitourinary System",7,"429641000006113","428255004","2694843016","cleansedreadcode"
-"","Tubulo-interstitial nephritis","","[x]renal tubulo-interstitial diseases","Diagnosis of Tubulo-interstitial nephritis",202,"Diseases of the Genitourinary System",7,"12703931000006113","28689008","424761000006119","originalreadcode"

@@ -1,4 +1,4 @@
 "read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
-"G410.00","Primary pulmonary hypertension","245","Primary pulmonary hypertension","Diagnosis of Primary pulmonary hypertension",150,"Diseases of the Circulatory System",2,"43850011","11399002","2968228010","cleansedreadcode"
 NA,"Primary pulmonary hypertension",NA,"Pulmonary hypertension",NA,150,"Diseases of the Circulatory System",2,"3654631000006113","70995007","117919017","termsearch"
 NA,"Primary pulmonary hypertension",NA,"[RFC] Pulmonary embolism/pulmonary hypertension",NA,150,"Diseases of the Circulatory System",2,"905451000006118","905451000006102","905451000006118","termsearch"
+"G410.00","Primary pulmonary hypertension","245","Primary pulmonary hypertension","Diagnosis of Primary pulmonary hypertension",150,"Diseases of the Circulatory System",2,"43850011","11399002","2968228010","cleansedreadcode"

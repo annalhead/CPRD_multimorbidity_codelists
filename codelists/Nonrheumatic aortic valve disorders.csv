@@ -1,4 +1,6 @@
 "read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"","Nonrheumatic aortic valve disorders","","aortic stenosis","Diagnosis of Nonrheumatic aortic valve disorders",103,"Diseases of the Circulatory System",2,"11927251000006117","60573004","1232103019","originalreadcode"
+"","Nonrheumatic aortic valve disorders","","aortic valve disorders nos","Diagnosis of Nonrheumatic aortic valve disorders",103,"Diseases of the Circulatory System",2,"12729191000006119","700331000000109","1530861000000115","originalreadcode"
 "G541.00","Nonrheumatic aortic valve disorders","4548","Aortic valve disorders","Diagnosis of Nonrheumatic aortic valve disorders",103,"Diseases of the Circulatory System",2,"488521000006118","8722008","1235209017","cleansedreadcode"
 "G541000","Nonrheumatic aortic valve disorders","14998","Aortic incompetence, non-rheumatic","Diagnosis of Nonrheumatic aortic valve disorders",103,"Diseases of the Circulatory System",2,"299985016","194983005","299985016","cleansedreadcode"
 "G541011","Nonrheumatic aortic valve disorders","47887","Aortic insufficiency, non-rheumatic","Diagnosis of Nonrheumatic aortic valve disorders",103,"Diseases of the Circulatory System",2,"299987012","194983005","299987012","cleansedreadcode"
@@ -16,5 +18,3 @@
 "Gyu1100","Nonrheumatic aortic valve disorders","94521","[X]Other rheumatic aortic valve diseases","Diagnosis of Nonrheumatic aortic valve disorders",103,"Diseases of the Circulatory System",2,"300864010","12023003","20718019","cleansedreadcode"
 "Gyu5600","Nonrheumatic aortic valve disorders","49272","[X]Other aortic valve disorders","Diagnosis of Nonrheumatic aortic valve disorders",103,"Diseases of the Circulatory System",2,"300893010","8722008","15387019","cleansedreadcode"
 "Gyu5A00","Nonrheumatic aortic valve disorders","71004","[X]Aortic valve disorders in diseases classified elsewhere","Diagnosis of Nonrheumatic aortic valve disorders",103,"Diseases of the Circulatory System",2,"300897011","8722008","15387019","cleansedreadcode"
-"","Nonrheumatic aortic valve disorders","","aortic stenosis","Diagnosis of Nonrheumatic aortic valve disorders",103,"Diseases of the Circulatory System",2,"11927251000006117","60573004","1232103019","originalreadcode"
-"","Nonrheumatic aortic valve disorders","","aortic valve disorders nos","Diagnosis of Nonrheumatic aortic valve disorders",103,"Diseases of the Circulatory System",2,"12729191000006119","700331000000109","1530861000000115","originalreadcode"

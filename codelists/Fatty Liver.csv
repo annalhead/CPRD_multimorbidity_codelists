@@ -1,7 +1,7 @@
 "read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"","Fatty Liver","","fatty liver","Diagnosis of Fatty Liver",59,"Diseases of the Digestive System",3,"851341000006110","851341000006106","851341000006110","originalreadcode"
 "J610.00","Fatty Liver","10691","Alcoholic fatty liver","Diagnosis of Fatty Liver",59,"Diseases of the Digestive System",3,"83834016","50325005","83834016","cleansedreadcode"
 "J61y700","Fatty Liver","10572","Steatosis of liver","Diagnosis of Fatty Liver",59,"Diseases of the Digestive System",3,"303463012","197321007","303463012","cleansedreadcode"
 "J61y800","Fatty Liver","98148","Nonalcoholic steatohepatitis","Diagnosis of Fatty Liver",59,"Diseases of the Digestive System",3,"2819666013","442685003","2819666013","cleansedreadcode"
 "J61y900","Fatty Liver","103466","Fatty change of liver","Diagnosis of Fatty Liver",59,"Diseases of the Digestive System",3,"1786201000006119","197321007","303463012","cleansedreadcode"
 "J61y911","Fatty Liver","103706","Fatty liver","Diagnosis of Fatty Liver",59,"Diseases of the Digestive System",3,"1786211000006116","197321007","2819770010","cleansedreadcode"
-"","Fatty Liver","","fatty liver","Diagnosis of Fatty Liver",59,"Diseases of the Digestive System",3,"851341000006110","851341000006106","851341000006110","originalreadcode"

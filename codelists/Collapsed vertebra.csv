@@ -1,4 +1,5 @@
 "read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+"","Collapsed vertebra","","collapse of cervical vertebra","Diagnosis of Collapsed vertebra",36,"Musculoskeletal conditions",12,"572141000006117","308757003","452080019","description"
 "7J41300","Collapsed vertebra","88269","Vertebroplasty of fracture of spine","Procedure for Collapsed vertebra",36,"Musculoskeletal conditions",12,"370001000000111","230411000000106","370001000000111","cleansedreadcode"
 "7J41500","Collapsed vertebra","90472","Balloon kyphoplasty of fracture of spine","Procedure for Collapsed vertebra",36,"Musculoskeletal conditions",12,"2674037014","426243004","2674037014","cleansedreadcode"
 "7J48M00","Collapsed vertebra","19376","Vertebroplasty","Procedure for Collapsed vertebra",36,"Musculoskeletal conditions",12,"1780420012","401226007","1780420012","cleansedreadcode"
@@ -26,4 +27,3 @@
 "S102100","Collapsed vertebra","28524","Closed fracture thoracic vertebra, wedge","Diagnosis of Collapsed vertebra",36,"Musculoskeletal conditions",12,"318437014","207940009","318437014","cleansedreadcode"
 "S104100","Collapsed vertebra","8266","Closed fracture lumbar vertebra, wedge","Diagnosis of Collapsed vertebra",36,"Musculoskeletal conditions",12,"318456016","207959006","318456016","cleansedreadcode"
 "S106000","Collapsed vertebra","72404","Closed compression fracture sacrum","Diagnosis of Collapsed vertebra",36,"Musculoskeletal conditions",12,"318474013","207975009","318474013","cleansedreadcode"
-"","Collapsed vertebra","","collapse of cervical vertebra","Diagnosis of Collapsed vertebra",36,"Musculoskeletal conditions",12,"572141000006117","308757003","452080019","description"

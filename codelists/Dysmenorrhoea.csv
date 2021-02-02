@@ -1,4 +1,5 @@
 "read code","disease","medcode","descr","category","disease_num","system","system_num","medcodeid","snomedctconceptid","snomedctdescriptionid","mapping"
+NA,"Dysmenorrhoea",NA,"Dysmenorrhoea -non psychogenic",NA,52,"Diseases of the Genitourinary System",7,"887481000006110","286993001","887481000006110","termsearch"
 "Eu45y11","Dysmenorrhoea","46925","[X]Psychogenic dysmenorrhoea","Diagnosis of Dysmenorrhoea",52,"Diseases of the Genitourinary System",7,"215921000000112","191977008","295387012","cleansedreadcode"
 "K583.00","Dysmenorrhoea","693","Dysmenorrhoea","Diagnosis of Dysmenorrhoea",52,"Diseases of the Genitourinary System",7,"396783017","266599000","396783017","cleansedreadcode"
 "K583.11","Dysmenorrhoea","3266","Painful menorrhoea","Diagnosis of Dysmenorrhoea",52,"Diseases of the Genitourinary System",7,"221261000000116","266599000","396783017","cleansedreadcode"
@@ -7,4 +8,3 @@
 "K583.14","Dysmenorrhoea","24183","Spasmodic dysmenorrhoea","Diagnosis of Dysmenorrhoea",52,"Diseases of the Genitourinary System",7,"478075016","65754002","500210010","cleansedreadcode"
 "K583000","Dysmenorrhoea","9869","Primary dysmenorrhoea","Diagnosis of Dysmenorrhoea",52,"Diseases of the Genitourinary System",7,"199615011","65754002","199615011","cleansedreadcode"
 "K583100","Dysmenorrhoea","11467","Secondary dysmenorrhoea","Diagnosis of Dysmenorrhoea",52,"Diseases of the Genitourinary System",7,"196901010","32096006","196901010","cleansedreadcode"
-NA,"Dysmenorrhoea",NA,"Dysmenorrhoea -non psychogenic",NA,52,"Diseases of the Genitourinary System",7,"887481000006110","286993001","887481000006110","termsearch"
