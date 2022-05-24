@@ -17,7 +17,7 @@ Active was defined as either i) using resources/impacting health, ii) conditions
 (The Academy of Medical Sciences. Multimorbidity: a priority for global health research. 2018.)
 
 As CALIBER code lists were developed using the GPRD GOLD database, a mapping process is required in order to use these in the Aurum CPRD database. 
-The mapping process was done for our specific  study of trends in multimorbidity over time, and is by no means a definitive list. 1 clinician reviewed the additional codes mapped. 
+The mapping process was done for our specific  study of trends in multimorbidity over time, and is by no means a definitive list. Mapping was done using the July 2020 Aurum dictionary. 1 clinician reviewed the additional codes mapped. 
 
 ## This repository contains the following files:
 1. DiseaseSummary.csv - this is a list of chronic conditions of interest for our study, narrowed down from the 308 diseases phenotypes by CALIBER. 'Disease' is condition the name in the CALIBER list, 'Disease_mod' is our amended name. The variables 'disease_num' & 'system_num'  are arbitrary variables for ease of coding. 'type' refers to whether a single code ever recorded is sufficient, or whether a multivisit criteria (at least 3 visits within 1 year) is required; conditions with an empty type are from test values only. 'testvalues' (yes/no) is for whether test values are used for this condition. 
