@@ -1,12 +1,13 @@
 # CPRD_multimorbidity_codelists
 
 This repository shares the code lists for our analysis of trends in multimorbidity between 2004 - 2019 in England, using CPRD Aurum data. 
+The results of our analysis are published in The Lancet Healthy Longevity as _Inequalities in incident and prevalent multimorbidity in England, 2004–19: a population-based, descriptive study_ [https://doi.org/10.1016/S2666-7568(21)00146-X](https://doi.org/10.1016/S2666-7568(21)00146-X)
  
-We adapted code lists from the CALIBER algorithms, available here https://www.caliberresearch.org/portal/phenotypes/chronological-map and in machine-readable format here https://github.com/spiros/chronological-map-phenotypes. These code lits were used in Kuan, V. et al. (2019) ‘A chronological map of 308 physical and mental health conditions from 4 million individuals in the English National Health Service’, The Lancet Digital Health. Elsevier Ltd, 1(2), pp. e63–e77. https://doi.org/10.1016/S2589-7500(19)30012-3 
+We adapted code lists from the CALIBER algorithms, available here [https://www.caliberresearch.org/portal/phenotypes/chronological-map](https://www.caliberresearch.org/portal/phenotypes/chronological-map)  and in machine-readable format here [https://github.com/spiros/chronological-map-phenotype](https://github.com/spiros/chronological-map-phenotypes)s. These code lits were used in Kuan, V. et al. (2019) ‘A chronological map of 308 physical and mental health conditions from 4 million individuals in the English National Health Service’, The Lancet Digital Health. Elsevier Ltd, 1(2), pp. e63–e77. [https://doi.org/10.1016/S2589-7500(19)30012-3 ](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(19)30012-3/fulltext)
 
 Our study uses the following multimorbidity definitions:
 Basic multimorbidity - two or more chronic diseases. 
-Complex multimorbidity - “three or more chronic conditions affecting three or more different body systems” (Harrison, C. et al. 2014. ‘Examining different measures of multimorbidity, using a large prospective cross-sectional study in Australian general practice’, BMJ Open. https://doi.org/10.1136/bmjopen-2013-004694.)
+Complex multimorbidity - “three or more chronic conditions affecting three or more different body systems” (Harrison, C. et al. 2014. ‘Examining different measures of multimorbidity, using a large prospective cross-sectional study in Australian general practice’, BMJ Open. [https://doi.org/10.1136/bmjopen-2013-004694](https://doi.org/10.1136/bmjopen-2013-004694).)
 
 We applied the Academy of Medical Sciences definition of chronic conditions to the CALIBER lists: 
 “A physical non-communicable disease of long duration, such as a cardiovascular disease or cancer; 
