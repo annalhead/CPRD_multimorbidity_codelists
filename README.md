@@ -2,6 +2,8 @@
 
 This repository shares the code lists for our analysis of trends in multimorbidity between 2004 - 2019 in England, using CPRD Aurum data. 
 The results of our analysis are published in The Lancet Healthy Longevity as _Inequalities in incident and prevalent multimorbidity in England, 2004–19: a population-based, descriptive study_ [https://doi.org/10.1016/S2666-7568(21)00146-X](https://doi.org/10.1016/S2666-7568(21)00146-X)
+
+* Please note - these codelists are for the work within my UoLiverpool/SPHR PhD studentship (all code on this github). They are not the codelists used in other projects I am involved in (e.g. work with The Health Foundation or the IMPACTncd microsimulation model), and do not map directly to implementations of the Cambridge Multimorbidity Score. I am working on making these available, but in the meantime please email me (ahead@liverpool.ac.uk) with any questions about codelists for other projects. 
  
 We adapted code lists from the CALIBER algorithms, available here [https://www.caliberresearch.org/portal/phenotypes/chronological-map](https://www.caliberresearch.org/portal/phenotypes/chronological-map)  and in machine-readable format here [https://github.com/spiros/chronological-map-phenotype](https://github.com/spiros/chronological-map-phenotypes)s. These code lits were used in Kuan, V. et al. (2019) ‘A chronological map of 308 physical and mental health conditions from 4 million individuals in the English National Health Service’, The Lancet Digital Health. Elsevier Ltd, 1(2), pp. e63–e77. [https://doi.org/10.1016/S2589-7500(19)30012-3 ](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(19)30012-3/fulltext)
 
